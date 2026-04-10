@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera comentarte un caso para conocer tu opinión diagnóstica.
+
+Se trata de una mujer de 44 años con antecedente de artritis reumatoide seropositiva diagnosticada hace aproximadamente 5 años (factor reumatoide y anticuerpos anti-CCP positivos), previamente tratada con hidroxicloroquina, metotrexato y posteriormente leflunomida, con buen control de los síntomas articulares.
+
+Hace aproximadamente 6 meses comenzó con mialgias en brazos y muslos, acompañadas de fatiga y debilidad muscular proximal progresiva. Refería dificultad para levantar los brazos por encima de la cabeza y para realizar actividades cotidianas como peinarse o maquillarse. La mialgia empeoraba con el ejercicio y al final del día. Además, presentaba episodios de parestesias en manos y pies y espasmos musculares en las manos.
+
+En la evaluación inicial se documentaron niveles elevados de creatina quinasa (≈422 U/L) y lactato deshidrogenasa. Los estudios inmunológicos mostraron ANA positivos (1:320) con patrón homogéneo y anticuerpos anti-U1-RNP positivos; sin embargo, anti-dsDNA y anti-Smith fueron negativos y los niveles de complemento fueron normales. Se inició tratamiento con azatioprina con ligera mejoría de la debilidad.
+
+Entre sus antecedentes destacan enfermedad de Graves tratada con yodo radiactivo hace 11 años, con desarrollo posterior de hipotiroidismo tratado con levotiroxina, así como hipoparatiroidismo diagnosticado hace aproximadamente 9 años, tratado con suplementos de calcio y calcitriol.
+
+En la exploración física presentaba debilidad leve en la flexión del cuello y de la cadera, sin sinovitis ni dolor articular activo. No presentaba erupciones cutáneas.
+
+Dado el contexto de debilidad muscular proximal, elevación de creatina quinasa y antecedentes de enfermedad autoinmune, inicialmente se consideró una posible miopatía inflamatoria o síndrome de superposición. Sin embargo, la paciente también presentaba parestesias y espasmos musculares.
+
+Con este cuadro clínico —debilidad proximal, mialgia, espasmos musculares y antecedentes de hipoparatiroidismo— me gustaría saber qué diagnósticos considerarías prioritarios "
+
+GROUND_TRUTH:
+E20.9, E83.5, G73.5

@@ -1,0 +1,27 @@
+CLINICAL_CASE:
+"Hola,
+
+Quería comentarte un caso pediátrico para conocer tu opinión diagnóstica.
+
+Se trata de un lactante de 10 meses previamente sano que ingresó por vómitos progresivos y pérdida de peso. Dos semanas antes del ingreso comenzó con episodios de vómitos explosivos ocasionales, inicialmente tras ingerir alimentos sólidos y posteriormente también después de líquidos. En los últimos días rechazaba alimentos, tenía náuseas al ver comida y prefería beber agua o leche. Los padres también notaron que parecía tener mucha sed.
+
+En urgencias se encontraba alerta pero delgado. Su peso era de 7,36 kg (percentil <1). Los signos vitales mostraban taquicardia leve. El abdomen estaba blando, sin masas ni organomegalias.
+
+En los estudios iniciales destacó hipercalcemia significativa (calcio sérico 13,2 mg/dL). Durante la hospitalización persistieron los vómitos. La ecografía abdominal descartó estenosis pilórica e invaginación, pero mostró nefrocalcinosis medular bilateral.
+
+En el laboratorio ampliado se encontró:
+
+PTH suprimida (6 pg/mL)
+
+25-hidroxivitamina D en rango alto-normal
+
+1,25-dihidroxivitamina D inicialmente normal
+
+Estudios óseos radiográficos normales
+
+En conjunto parece tratarse de una hipercalcemia independiente de PTH en un lactante, con nefrocalcinosis y sin datos clínicos de síndromes genéticos evidentes ni enfermedad maligna.
+
+Con este cuadro —hipercalcemia significativa, PTH suprimida, nefrocalcinosis y metabolitos de vitamina D no claramente elevados— quería preguntarte qué etiologías considerarías prioritarias "
+
+GROUND_TRUTH:
+E83.5, E88.8

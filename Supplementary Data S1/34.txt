@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso pediátrico que ingresó recientemente a la UCIP.
+
+Se trata de un lactante masculino de 8 semanas previamente sano que comenzó 7 días antes del ingreso con irritabilidad y llanto frecuente. En los días siguientes el llanto se volvió más intenso y prolongado, especialmente cuando se le tocaba el lado derecho del abdomen. Inicialmente fue evaluado en atención primaria y se consideró malestar por gases.
+
+Posteriormente presentó episodios de llanto inconsolable que duraban varias horas mientras estaba despierto y cesaban solo durante el sueño. En las últimas 24 horas antes del ingreso, el llanto se volvió progresivamente más débil, con disminución del vigor al alimentarse y dificultad para prenderse al pecho.
+
+Al llegar a urgencias estaba alerta pero muy irritable, con llanto débil e inconsolable. Los signos vitales mostraban taquicardia pero sin fiebre. La exploración física fue en general normal: fontanela anterior blanda y plana, pulmones claros, abdomen blando sin visceromegalias y sin erupciones cutáneas.
+
+Los estudios iniciales mostraron hemograma prácticamente normal excepto trombocitosis (621,000/µL). La química sanguínea, pruebas hepáticas, lactato y análisis de orina fueron normales. Las pruebas virales respiratorias fueron negativas. La radiografía de tórax y abdomen y la ecografía abdominal no mostraron alteraciones.
+
+Horas después del ingreso el paciente desarrolló letargo progresivo. La resonancia magnética cerebral fue normal. Se realizó punción lumbar: glucosa 54 mg/dL, proteínas 104 mg/dL, 1055 eritrocitos/µL y solo 2 células nucleadas/µL (predominio linfocitario).
+
+Posteriormente desarrolló aumento del trabajo respiratorio con desaturación hasta 85% en aire ambiente. Tras su traslado a UCIP presentaba dificultad para despertar, llanto hipofónico, ptosis bilateral, debilidad marcada de extremidades, hipotonía difusa y reflejos disminuidos. Los movimientos espontáneos de brazos eran escasos y prácticamente no había movimiento en las piernas. Fue necesaria intubación y ventilación mecánica.
+
+Con este cuadro de irritabilidad inicial seguida de letargo, debilidad progresiva, parálisis bulbar (llanto débil, mala succión, ptosis), hipotonía generalizada e insuficiencia respiratoria en un lactante de 8 semanas, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+A05.1

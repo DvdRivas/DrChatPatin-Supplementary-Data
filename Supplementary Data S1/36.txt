@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Quisiera tu opinión diagnóstica sobre un caso.
+
+Se trata de una mujer de 58 años con antecedentes de diabetes tipo 2, hipertensión, enfermedad coronaria y enfermedad discal lumbar, que tres semanas antes se sometió a una hemilaminectomía lumbar con descompresión radicular.
+
+En el postoperatorio presentó dolor lumbar intenso con irradiación a la pierna izquierda que persistió a pesar de analgesia. Aproximadamente dos semanas después de la cirugía comenzó con fiebre de hasta 39 °C y desarrolló una erupción eritematosa en piernas, pecho, glúteos, espalda y mejillas, inicialmente descrita como urticarial.
+
+Posteriormente apareció edema doloroso del párpado derecho y diplopía horizontal que mejoraba al ocluir un ojo. No refería cefalea, rigidez de cuello ni alteraciones visuales aparte de la diplopía.
+
+En la exploración se observó esotropía del ojo derecho que empeoraba con la abducción, ligera ptosis y anisocoria con pupila derecha más pequeña. El resto del examen neurológico era normal. También presentaba máculas eritematosas confluentes en la pierna derecha y glúteos.
+
+Los estudios de laboratorio mostraron electrolitos, función renal y hepática normales, así como recuento leucocitario normal, pero con elevación de marcadores inflamatorios. Las pruebas para SARS-CoV-2, influenza, VIH y hepatitis C fueron negativas.
+
+La resonancia magnética cerebral con contraste no mostró lesiones parenquimatosas, pero sí realce de múltiples pares craneales derechos (III, V, VI y VII). La angiografía por TC de cabeza y cuello fue normal.
+
+La paciente vive en una zona boscosa del noreste de Estados Unidos y pasea frecuentemente a su perro en áreas boscosas.
+
+Con este cuadro de fiebre, exantema, radiculalgia, diplopía y realce de múltiples pares craneales en la resonancia, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+A69.2, B60.0

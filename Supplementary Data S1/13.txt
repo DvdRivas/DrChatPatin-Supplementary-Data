@@ -1,0 +1,43 @@
+CLINICAL_CASE:
+"me gustaría consultarte un caso de la clínica de reumatología que nos tiene con algunas dudas diagnósticas y terapéuticas.
+
+Se trata de una femenina de 11 años enviada por un cuadro de ojo rojo persistente.
+
+Historia de la Enfermedad Actual
+Evolución: Cuadro de 8 semanas de evolución caracterizado por hiperemia conjuntival (ojo derecho > izquierdo) y edema palpebral intermitente.
+
+Síntomas negativos: Niega fotofobia, prurito, dolor ocular, epífora o secreción purulenta.
+
+Manejos previos: Sin respuesta a descongestivos tópicos ni a ciclo de antibióticos orales por sospecha de celulitis preseptal.
+
+Evaluación Oftalmológica
+Hace 5 semanas fue evaluada por oftalmología, encontrando:
+
+Agudeza visual: 20/20 OD, 20/25 OI.
+
+Lámpara de hendidura: Abundantes células en cámara anterior (OD > OI), precipitados queráticos, sinequias posteriores y nódulos en el iris (ojo derecho).
+
+Fondo de ojo: Edema de papila bilateral, hemorragias retinianas periféricas y exudados perivasculares en el ojo derecho.
+
+Estudios recientes: Angiografía con fluoresceína mostró fuga en disco óptico, fuga vascular y áreas de isquemia/no perfusión periférica. La OCT confirmó el edema de disco sin edema macular cistoide.
+
+Hallazgos Sistémicos e Imagenología
+La paciente se encuentra sistémicamente asintomática (niega fiebre, pérdida de peso, sudoración nocturna, tos, disnea o artralgias). La exploración física general es anodina, salvo por los hallazgos oculares.
+
+Laboratorio: VIH, Sífilis y Lyme negativos. Un primer IGRA (Interferon-Gamma Release Assay) para TB resultó indeterminado.
+
+Rx Tórax: Plenitud hiliar.
+
+TC de Tórax y Abdomen (con contraste): Timo de aspecto normal. Adenopatías difusas en mediastino, abdomen superior y axilas (la mayor de 2.0 x 1.3 cm).RMN de Cráneo: Protrusión y realce de los discos ópticos y realce de iris (compatible con uveitis/papilitis), sin evidencia de neuritis óptica retrobulbar ni perineuritis.
+
+Antecedentes de Importancia (Reinterrogatorio)
+Al profundizar en la historia social, destacan dos puntos clave:
+
+La familia emigró de África Occidental hace 6 años.
+
+Hace 6 meses, la paciente tuvo un IGRA positivo. Se le prescribió tratamiento para tuberculosis latente, pero los padres no recuerdan haberle administrado el medicamento.
+
+Actualmente está ingresada con tratamiento empírico antifímico (RIPE: Rifampicina, Isoniazida, Pirazinamida, Etambutol) y esteroides sistémicos y tópicos (ciclopentolato/prednisolona)."
+
+GROUND_TRUTH:
+A16.9

@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Te presento un varón de 36 años, previamente sano salvo por ingesta crónica y episódicamente excesiva de alcohol (4–5 cervezas entre semana, hasta 12 los fines de semana). No fumador, sin drogas, nacido en Centroamérica, residente EU desde hace 16 años, trabaja en construcción. No medicamentos actuales. No historia personal/familiar de fenómenos trombóticos.
+
+Consulta por cuadro de 2 semanas de evolución con dolor abdominal inicialmente en FID/flanco derecho, autolimitado, que recurre 3 días antes del ingreso ahora con diarrea, posteriormente náusea y vómito. Acompañado desde días previos por fiebre subjetiva, y en las 24 h previas disnea progresiva e inicio de tos productiva (esputo color café/tan).
+
+Al arribo a urgencias: francamente tóxico, febril (38.6 °C), taquicárdico (110 lpm), taquipneico (28 rpm), hipotenso (92/50), saturando 94 % con O₂ a 4 L/min cánula. Scleras ictéricas, crépitos bibasales, dolor y defensa en hipocondrio derecho pero sin signo de Murphy. Sin asterixis, sin datos cutáneos ni signos de sepsis cutánea.
+
+Laboratorios con trombocitopenia, patrón colestásico claro (bilirrubina total y directa elevadas, FA elevada), bilirrubinuria y urobilinogenuria. Frotis periférico con burr cells, esquistocitos y esferocitos ocasionales, pero sin anemia hemolítica franca aparente. Posteriormente desarrolla leucocitosis. Sepsis evidente.
+
+Radiografía de tórax: patrón intersticial y opacidades parcheadas bilaterales. TC de tórax/abdomen/pelvis con contraste: neumonía multifocal dependiente (predominio en lóbulos inferiores), adenopatías mediastínicas, hepatomegalia con edema periportal, engrosamiento de vía biliar, vesícula contraída con edema pericolecístico, y —dato clave— trombo parcialmente oclusivo en vena renal derecha extendiéndose a cava inferior. Se aprecia engrosamiento duodenal proximal con sugerencia incluso de fístula o conexión inflamatoria con el polo renal derecho.
+
+Hemocultivos: 3/4 positivos a las 15 h → Streptococcus anginosus. Temperatura máxima 39 °C persistente. Recibe ceftriaxona + doxiciclina (previo amplio espectro). Inician heparina. Lupus anticoagulante positivo aislado.
+
+MRI confirma proceso inflamatorio periduodenal con compromiso pararrenal y trombo en vena renal, aunque con artefacto por movimiento. No masas francas hepáticas ni pancreáticas."
+
+GROUND_TRUTH:
+A41.9

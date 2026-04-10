@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso pediátrico.
+
+Se trata de una adolescente de 16 años con antecedente de anemia ferropénica y trastorno de ansiedad que consulta por 4 semanas de dolor abdominal intermitente. Inicialmente los episodios eran esporádicos, pero progresaron hasta ocurrir varias veces al día. El dolor aparece de forma súbita, es intenso (8/10), predominante en epigastrio y cuadrantes superiores, y suele acompañarse de náuseas. En las últimas dos semanas ha presentado múltiples episodios de vómito, tras los cuales el dolor disminuye.
+
+En los últimos días los episodios se han prolongado hasta 15 minutos y se han acompañado de vómitos repetidos. También refiere disminución del apetito, fatiga, mareos y estreñimiento progresivo; su última evacuación fue tres días antes de la consulta. Niega fiebre, diarrea o pérdida de peso.
+
+En la exploración física presenta abdomen blando con dolor difuso predominante en epigastrio y defensa leve, sin distensión. Durante la evaluación presenta arcadas frecuentes.
+
+Los estudios de laboratorio muestran leucocitosis (≈15 000/µL) y anemia leve con hemoglobina alrededor de 10–11 g/dL. Los electrolitos, pruebas hepáticas y función renal son normales. Las pruebas de embarazo, gonorrea y clamidia son negativas.
+
+Las ecografías abdominales y pélvicas repetidas no muestran anomalías. Una tomografía computarizada de abdomen con contraste intravenoso muestra apéndice normal, sin evidencia de obstrucción intestinal ni masas evidentes; únicamente se observa contenido gástrico y pequeña cantidad de heces en el colon.
+
+El dolor suele aparecer de forma brusca y mejora después del vómito.
+
+Con este cuadro de dolor epigástrico intermitente, náuseas y vómitos progresivos en una adolescente con anemia ferropénica y estudios de imagen sin hallazgos claros de obstrucción intestinal, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+T18.2

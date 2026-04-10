@@ -1,0 +1,11 @@
+CLINICAL_CASE:
+"Es un paciente de 91 años que empezó con dolor en la rodilla izquierda desde hace unos 6 meses. Lo curioso es que tenía una prótesis en esa rodilla desde hace 20 años y nunca había tenido problemas hasta ahora. Con el tiempo el dolor fue empeorando, también sentía inestabilidad al caminar, y terminó usando andadera y silla de ruedas para moverse más lejos.
+
+En la revisión encontraron líquido dentro de la articulación y algo de inflamación. Los estudios de imagen mostraron una masa de tejido cerca del fémur, además de mucha inflamación de la articulación y derrame. Cuando analizaron el líquido de la rodilla vieron muchos leucocitos, sobre todo neutrófilos, y una prueba especial salió positiva, lo que hacía pensar que había un proceso infeccioso relacionado con la prótesis, aunque los cultivos bacterianos salían negativos.
+
+Revisando sus antecedentes, vieron que años antes había recibido un tratamiento para cáncer de vejiga que utiliza bacterias atenuadas y que incluso había tenido un episodio de sepsis después de ese tratamiento.
+
+Durante la cirugía retiraron la prótesis, limpiaron el tejido inflamado y enviaron muestras al laboratorio. Después de varios días, en los cultivos y pruebas genéticas se identificó el microorganismo responsable, que probablemente había llegado por la sangre y se quedó en la prótesis durante años hasta causar el problema."
+
+GROUND_TRUTH:
+A18.0

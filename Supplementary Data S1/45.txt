@@ -1,0 +1,19 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedir tu opinión diagnóstica sobre un caso obstétrico crítico.
+
+Se trata de una mujer de 35 años, G4P1, con antecedente de una cesárea previa por presentación podálica. Durante el embarazo actual se diagnosticó placenta previa completa anterior a las 18 semanas de gestación. Además, presentó diabetes mellitus gestacional manejada con dieta inicialmente y posteriormente con insulina.
+
+A las 33 semanas de gestación presentó episodios de sangrado vaginal rojo brillante con coágulos, compatibles con placenta previa. Fue hospitalizada en dos ocasiones para observación y manejo conservador; los episodios se resolvieron sin compromiso hemodinámico ni fetal. Se programó una cesárea electiva a las 36 semanas y 4 días de gestación.
+
+El día programado para la cesárea, la paciente se encontraba clínicamente estable. Se realizó una cesárea bajo anestesia combinada espinal-epidural. Se administró cefazolina profiláctica y se realizó una incisión uterina transversa baja a través de la placenta anterior. El recién nacido fue extraído sin complicaciones, con Apgar 8 y 10 al minuto y a los 5 minutos.
+
+Aproximadamente tres minutos después de la expulsión de la placenta, mientras se limpiaba la cavidad uterina, el útero exteriorizado se volvió pálido con mínimo sangrado. En ese mismo momento la paciente dejó de responder y presentó respiraciones esporádicas; inicialmente tenía pulso carotídeo palpable. Se inició ventilación manual. Dos minutos después presentó paro cardíaco con ritmo sinusal en el monitor y se inició reanimación cardiopulmonar e intubación endotraqueal.
+
+Aproximadamente 30–40 minutos después del parto comenzó un sangrado masivo y difuso del campo quirúrgico y de la herida operatoria. Los estudios de laboratorio mostraron trombocitopenia, prolongación del tiempo de protrombina y del tiempo de tromboplastina parcial, e hipofibrinogenemia, compatibles con coagulopatía severa.
+
+Considerando el colapso cardiovascular súbito inmediatamente después del parto, seguido de coagulopatía de consumo y hemorragia masiva durante la cesárea, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+O88.1

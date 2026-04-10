@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso de patología mamaria.
+
+Se trata de una mujer de 59 años con acceso limitado a atención médica durante muchos años que consulta por una masa mamaria derecha de larga evolución. La paciente refiere haber palpado inicialmente la lesión aproximadamente 27 años antes, cuando tenía 32 años. En ese momento se le realizaron estudios de imagen y le informaron que se trataba de un hallazgo benigno, por lo que no se realizó biopsia. Desde entonces, la lesión presentó crecimiento lento pero progresivo.
+
+En los últimos dos años la paciente notó un aumento más rápido del tamaño de la masa, con deterioro progresivo de la piel suprayacente, dolor, supuración y episodios de sangrado. Tres semanas antes de la evaluación actual acudió a urgencias por fiebre, confusión y dificultad para encontrar palabras; se diagnosticó un accidente cerebrovascular isquémico temporoparietal izquierdo. Durante esa evaluación se observó una gran masa exofítica y sangrante en la mama derecha.
+
+Los estudios de laboratorio mostraron anemia microcítica severa (hemoglobina 4.3 g/dL) y trombocitosis marcada (922,000/µL). La tomografía computarizada de tórax, abdomen y pelvis reveló una masa quística-sólida en la mama derecha de aproximadamente 15–20 cm, con prominencia de ganglios linfáticos regionales y presencia de nódulos pulmonares y lesiones costales sospechosas de metástasis.
+
+En la exploración física se observa una gran masa fungosa en la mama derecha con áreas de necrosis, sangrado y destrucción del complejo pezón-areola. No se palpan adenopatías axilares claramente definidas.
+
+Se realizó una biopsia incisional de la lesión mamaria.
+
+Con este cuadro de una masa mamaria de crecimiento muy lento durante décadas, con progresión local importante, ulceración cutánea y posible diseminación pulmonar, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C50.9, C77.9

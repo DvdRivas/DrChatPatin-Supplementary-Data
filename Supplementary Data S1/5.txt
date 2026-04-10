@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Dra. Sarah E. Kler (Medicina): Una mujer de 56 años fue evaluada en el departamento de emergencias de este hospital debido a dolor de garganta y sarpullido.
+
+La paciente había estado en su estado habitual de salud hasta 2 días antes de la presentación actual, cuando comenzó con dolor de garganta y prurito en el pecho. Tenía antecedentes de depresión con psicosis y residía en un refugio para personas sin hogar. A pesar del prurito, la paciente no inspeccionó la piel de su pecho.
+
+El día de la presentación actual, mientras se miraba en un espejo en un baño público, notó un sarpullido en la cara, lo que la llevó a revisar el resto de su piel. Vio que el sarpullido también afectaba el pecho, el abdomen y las piernas. Se presentó al departamento de emergencias de este hospital para evaluación.
+
+En el departamento de emergencias, la paciente refirió prurito y dolor de garganta persistentes. Señaló que varios residentes del refugio donde vivía parecían estarse rascando en la semana previa, y había escuchado a un empleado del refugio hablar sobre piojos y sarna con otro residente. No había tenido exposición conocida a jabones, detergentes o lociones nuevos. No dormía al aire libre ni pasaba tiempo en el bosque. No era sexualmente activa. No tenía fiebre, malestar general, dolor de cabeza, confusión, cambios en la fuerza o sensibilidad, dificultad para respirar ni tos. Además de su antecedente de depresión con psicosis, tenía dislipidemia y esteatohepatitis asociada con disfunción metabólica. Sus medicamentos incluían risperidona y benztropina. No se conocían reacciones adversas a medicamentos. No fumaba, no bebía alcohol ni consumía drogas ilícitas.
+
+La temperatura temporal era de 38.4 °C, la presión arterial 134/72 mm Hg, el pulso 83 latidos por minuto, la frecuencia respiratoria 16 respiraciones por minuto y la saturación de oxígeno 96% mientras respiraba aire ambiente. Estaba alerta y cooperativa. Había pápulas rosadas difusas en la frente, nariz, mejillas y mentón (Figura 1A). Había una úlcera en la encía superior anterior (Figura 1B). Se observaron pápulas y vesículas excoriadas en la espalda, el pecho y el abdomen, con afectación de los pliegues inframamarios e inguinales (Figuras 1C a 1F). Se observaron pápulas rosadas en el dorso de las manos y en las palmas (no mostrado). Los ruidos pulmonares eran normales.
+
+Las concentraciones sanguíneas de electrolitos y fosfatasa alcalina eran normales, al igual que los resultados de las pruebas de función renal. El nivel de aspartato aminotransferasa era de 44 U por litro (rango de referencia, 9 a 32), el nivel de alanina aminotransferasa 60 U por litro (rango de referencia, 7 a 33) y el nivel de albúmina 3.2 g por decilitro (rango de referencia, 3.3 a 5.0). El recuento de glóbulos blancos era de 5300 células por microlitro, con 5.3% de linfocitos atípicos; el resto del hemograma completo era normal."
+
+GROUND_TRUTH:
+B86

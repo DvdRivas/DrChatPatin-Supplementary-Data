@@ -1,0 +1,86 @@
+CLINICAL_CASE:
+"me gustaría pedirte una segunda opinión sobre un caso complejo que tenemos en piso. Se trata de un masculino de 57 años que ingresó por tos persistente y opacidades pulmonares progresivas. Te resumo la historia clínica, la evolución de las imágenes y los hallazgos de laboratorio relevantes.
+
+Antecedentes Personales
+Diagnóstico de base: Poliarteritis nodosa diagnosticada hace 6 años.
+
+Tratamiento: Recibió ciclofosfamida (6 ciclos), seguido de mantenimiento con prednisona y metotrexato semanal. Hace 5 meses requirió aumento de dosis de prednisona por exacerbación de artralgias.
+
+Otros: Tabaquismo importante (30 paquetes/año, suspendido hace semanas), diabetes mellitus, ERGE (con esófago patuloso/hernia hiatal), pancreatitis previa.
+
+Exposición: Trabajó con solventes hace 30 años. Sin viajes recientes fuera de EE.UU./Caribe.
+
+Cronología y Evolución
+Hace 5 meses:
+
+Clínica: Fiebre y pérdida de peso.
+
+TC Tórax: Enfisema centrolobulillar leve, nódulos pulmonares estables (sin cambios vs hace 6 años), engrosamiento difuso de la pared bronquial y secreciones en tráquea/bronquio principal derecho.
+
+Labs: M. tuberculosis negativo, electroforesis de proteínas e IgG normales.
+
+Hace 3 meses:
+
+Clínica: Fiebre, tos con esputo verde, desaturación (89% aire ambiente) y candidiasis orofaríngea (""muguet""). Auscultación con crepitantes y sibilancias en pulmón derecho.
+
+Imagen (Rx): Opacidades parcheadas y confluentes predominantes en pulmón derecho (medio e inferior).
+
+Manejo: Se ingresó y trató empíricamente (Vancomicina, Cefepima, Levofloxacino). Cultivos de esputo con flora normal y C. albicans. Pneumocystis negativo. Egresó con mejoría parcial de los síntomas constitucionales, pero la tos persistió.
+
+Hace 5 semanas (aprox.):
+
+Clínica: Cuadro gripal (esposa enferma primero), seguido de disnea, fiebre y aumento de esputo marrón.
+
+Imagen (Rx): Opacidades parcheadas en lóbulos superior, medio e inferior derechos.
+
+Manejo: Nuevo ciclo de antibióticos (incluyendo azitromicina) y corticoides orales. Egresado a los 2 días. Posterior a esto presentó malestar, fiebre y sudores nocturnos durante 3 semanas.
+
+Hace 8 días (Ingreso previo):
+
+Clínica: SatO2 94%. Crepitantes bibasales.
+
+Imagen:
+
+Rx: Opacidades reticulonodulares multifocales, confluentes en lóbulo inferior derecho (LID).
+
+TC (sin contraste): Nódulos centrolobulillares multifocales agrupados y opacidades en patrón de árbol en brote, con consolidación focal (predominio medio/inferior derecho). Nueva adenopatía mediastínica e hiliar derecha (no presente antes).
+
+Estudios:
+
+ANCA, Anti-DNA, C3/C4 normales. Legionella en orina negativo.
+
+Broncoscopia/BAL (Lóbulo Medio): Líquido turbio. Celularidad: 888 células/µL (48% neutrófilos, 2% linfocitos, sin eosinófilos).
+
+Gram: Cocos gram-positivos escasos.
+
+Cultivos y PCRs virales: Negativos para virus respiratorios, micobacterias y hongos dimórficos. Cultivo bacteriano con flora normal y C. albicans.
+
+Situación Actual (Reingreso)
+El paciente fue dado de alta pero reingresó a los 4 días debido a un resultado pendiente del BAL anterior y empeoramiento clínico.
+
+Dato Pivote: Antígeno de Galactomanano en BAL positivo (Índice ≥3.75).
+
+Clínica actual: Fiebre persistente (hasta 39.3°C), disnea, tos con esputo blanco espeso, sabor amargo y disfagia intermitente. Pérdida de peso de 5 kg en el último año.
+
+Exploración física: Aspecto cushingoide, taquipneico. SatO2 91% con 6L de oxígeno. Rales, roncus y sibilancias inspiratorias (Derecha > Izquierda).
+
+Labs: Función renal y hepática normales.
+
+Microbiología: El cultivo de BAL del ingreso anterior finalmente desarrolló Enterococcus sp, C. albicans y C. glabrata. Esputo inducido negativo para micobacterias. Gram de esputo actual con abundantes neutrófilos y flora mixta.
+
+Imagen Actual (TC protocolo TEP):
+
+Progresión de la enfermedad.
+
+Extensos nódulos pulmonares centrolobulillares, patrón de árbol en brote y opacidades en vidrio deslustrado parcheadas.
+
+Engrosamiento de pared bronquial con tapones mucosos, predominio en lóbulos inferiores.
+
+Sin evidencia de embolia pulmonar.
+
+Anatomía Patológica (revisión): Inflamación aguda, macrófagos pulmonares. Sin células malignas.
+
+Actualmente se ha suspendido el metotrexato y se inició tratamiento empírico con Voriconazol intravenoso dado el resultado del galactomanano."
+
+GROUND_TRUTH:
+M30.0

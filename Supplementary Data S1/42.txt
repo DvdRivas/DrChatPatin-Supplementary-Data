@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso.
+
+Se trata de un hombre de 55 años con antecedente de pancreatitis crónica complicada por necrosis pancreática infectada y pseudoquiste pancreático. En los últimos meses ha requerido drenaje percutáneo de colecciones necróticas y embolización de un pseudoaneurisma de la arteria gastroduodenal.
+
+Tres meses antes de la evaluación actual comenzó con dolor en los tobillos acompañado de rigidez matutina de aproximadamente una hora. Dos semanas después desarrolló dolor, eritema e hinchazón en la parte distal de la pierna izquierda, con un nódulo fluctuante sobre una base eritematosa. Posteriormente aparecieron inflamación y dolor en el quinto dedo del pie izquierdo y en la primera articulación metacarpofalángica derecha, además de compromiso de otras articulaciones de las manos.
+
+Los estudios mostraron elevación marcada de reactantes de fase aguda (VSG 76 mm/h y PCR 102 mg/L), con pruebas autoinmunes negativas (ANA, ANCA, factor reumatoide y anti-CCP). La radiografía de tórax fue normal. Recibió tratamiento con prednisona con mejoría parcial de las lesiones cutáneas y del dolor articular.
+
+Semanas después, durante una nueva evaluación, presentaba múltiples lesiones cutáneas en extremidades inferiores: placas eritematosas induradas con descamación superficial en la rodilla derecha, placas eritematosas más pequeñas en la pantorrilla izquierda y áreas de hiperpigmentación residual. También tenía edema en el pie derecho y dolor en la pantorrilla.
+
+En el contexto de su enfermedad pancreática, episodios de necrosis pancreática infectada, poliartritis y la aparición de nódulos cutáneos dolorosos en las piernas que evolucionan a placas inflamatorias con hiperpigmentación residual, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+K85.9, L98.8, M12.9

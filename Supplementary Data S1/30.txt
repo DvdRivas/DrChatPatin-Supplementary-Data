@@ -1,0 +1,19 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso ginecológico en una adolescente.
+
+Se trata de una paciente de 15 años previamente sana que consultó inicialmente hace 6 semanas por dolor abdominal bajo agudo tipo cólico que comenzó en la línea media y luego se localizó en el cuadrante inferior derecho. En ese momento presentaba leucocitosis leve y la ecografía transabdominal mostró un quiste ovárico derecho complejo de pared gruesa con pequeña cantidad de líquido libre pélvico. Se consideró ruptura de quiste ovárico y fue dada de alta.
+
+El dolor cedió inicialmente, pero 6 semanas después reapareció con características similares. En los días previos también había notado aumento del perímetro abdominal y dificultad para usar su ropa habitual.
+
+En la evaluación actual la paciente estaba hemodinámicamente estable. El abdomen inferior derecho estaba firme, distendido y con dolor leve a la palpación. Presentaba leucocitosis (16,120/µL) y anemia leve (Hb 10.1 g/dL). No había náuseas, vómitos, síntomas urinarios ni sangrado vaginal. La paciente no es sexualmente activa y la prueba de embarazo fue negativa.
+
+En la ecografía se identificó una masa heterogénea grande (aprox. 16–17 cm) inseparable del ovario derecho, con vascularización interna y moderada a abundante cantidad de ascitis. El ovario izquierdo era normal. La TC y la RM pélvica confirmaron una masa anexial derecha heterogénea que desplazaba las vísceras pélvicas y presentaba realce periférico nodular. Además se observó engrosamiento endometrial de aproximadamente 22 mm.
+
+Los estudios de laboratorio mostraron AFP y LDH normales, β-hCG negativa, CA-125 elevado (109 U/mL) y un nivel marcadamente elevado de estradiol (2708 pg/mL).
+
+La paciente además presenta desarrollo puberal Tanner IV pero aún no ha tenido menarquia.
+
+Con estos hallazgos —masa ovárica grande de rápido crecimiento, ascitis, engrosamiento endometrial y niveles muy elevados de estradiol con marcadores de tumores germinales normales— ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C56.9

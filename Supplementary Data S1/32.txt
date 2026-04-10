@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso respiratorio en una paciente adulta mayor.
+
+Se trata de una mujer de 79 años previamente sana que consultó por 4 semanas de tos persistente y fatiga. Inicialmente presentó tos seca asociada a coriza y odinofagia, síntomas que posteriormente remitieron excepto la tos, que se volvió productiva y comenzó a interferir con el sueño. Además, había presentado pérdida de peso progresiva de aproximadamente 10 kg durante el último año.
+
+En la exploración física se encontraba hemodinámicamente estable, con saturación de oxígeno normal en aire ambiente. Destacaban ruidos respiratorios disminuidos y matidez a la percusión en la base pulmonar derecha.
+
+Los estudios de laboratorio mostraron hemograma normal, electrolitos y función renal normales, con elevación moderada de la velocidad de sedimentación globular (55 mm/h) y proteína C reactiva (11.9 mg/L). La lactato deshidrogenasa estaba ligeramente elevada.
+
+La radiografía de tórax reveló un derrame pleural derecho moderado con opacidades en los lóbulos medio e inferior derechos. Se realizó toracocentesis y se extrajeron 1.3 litros de líquido pleural amarillo ligeramente turbio. El análisis del líquido mostró un derrame pleural exudativo con proteínas de 5.6 g/dL y LDH de 230 U/L. El líquido era altamente celular (6342 células nucleadas/µL) con predominio de células no clasificadas (54%), además de linfocitos y pocos neutrófilos.
+
+El estudio posterior del líquido pleural identificó numerosas células plasmáticas atípicas con restricción de cadena ligera lambda. La electroforesis de proteínas séricas mostró un componente monoclonal IgM lambda, con alteración en la relación de cadenas ligeras libres. La tomografía por emisión de positrones (PET-TC) reveló intensa captación metabólica en una consolidación pulmonar del lóbulo medio derecho y una lesión en el seno maxilar izquierdo. La biopsia de esta lesión mostró infiltrado de células B pequeñas con diferenciación plasmocítica y expresión de IgM con restricción lambda.
+
+Con este conjunto de hallazgos —derrame pleural exudativo con infiltración por células plasmáticas monoclonales, componente monoclonal IgM y lesión extranodal con infiltrado linfoplasmocítico— ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C88.4

@@ -1,0 +1,64 @@
+CLINICAL_CASE:
+"Me gustaría comentarte un caso difícil de Medicina Interna que recibimos desde Urgencias para ver qué opinas sobre el abordaje diagnóstico.
+
+Se trata de un masculino de 76 años evaluado por alteración del estado mental y mareo.
+
+Historia Actual
+Fue encontrado gateando en la vía pública, pálido y diaforético. EMS reportó glucosa capilar de 152 mg/dL. Al llegar a Urgencias, presentaba amnesia del evento, refería disnea, dolor de espalda crónico y acúfenos persistentes. Estaba desaliñado, somnoliento pero despertaba al estímulo verbal, orientado parcialmente, obedecía órdenes de forma intermitente. Se notó una abrasión superficial sobre la ceja izquierda y dolor leve en espalda media.
+
+Antecedentes (recabados vía telefónica con su hospital base)
+Comorbilidades: Historia de TCE, Trastorno de Estrés Postraumático (TEPT), trastorno convulsivo, estenosis espinal, HTA, Diabetes Mellitus, Dislipidemia, ERC, ERGE y ansiedad.
+
+Fármacos: Lisinopril y lidocaína transdérmica.
+
+Toxicomanías: Alcoholismo remitido hace 40 años.
+
+Signos Vitales al Ingreso
+TA: 183/113 mm Hg
+
+FC: 92 lpm
+
+FR: 27 rpm (Taquipnea)
+
+SatO2: 99% aire ambiente
+
+T: 36.6°C
+
+Abordaje Inicial (Urgencias)
+FAST: Negativo.
+
+Toxicología: Etanol indetectable. Panel de drogas en orina negativo.
+
+Labs: Panel viral respiratorio negativo. Lipasa, Magnesio, BNP y PFH normales. Anemia normocítica leve.
+
+ECG: Ritmo sinusal, retraso en la conducción intraventricular, desviación del eje a la izquierda y cambios inespecíficos del segmento ST y onda T.
+
+Imagenología (AngioTAC de Cráneo, Cuello, Tórax, Abdomen y Pelvis):
+
+Cráneo: Cambios leves inespecíficos en sustancia blanca, calcificación focal pequeña peritrigonal derecha. Aterosclerosis sin estenosis crítica. Sin hemorragia aguda ni isquemia.
+
+Cuerpo: Sin disección aórtica, TEP, neumotórax ni edema pulmonar. Nódulo suprarrenal izquierdo (adenoma).
+
+Evolución Intrahospitalaria
+0 - 8 horas: Se le administró solución salina con dextrosa al 5%. El paciente presentó agitación psicomotriz severa y combatividad, retirándose vías y monitores. Requirió dos dosis de olanzapine para sedación.
+
+16 horas:
+
+Signos vitales: TA 160/72, FR 20 rpm (pero se observa respiración profunda).
+
+Neurológico: Disártrico, lenguaje sin sentido. Solo obedecía órdenes con pistas visuales (ej. sacar la lengua por imitación).
+
+EEG: Normal, sin actividad epileptiforme.
+
+RMN Cerebro: Confirma enfermedad de pequeño vaso crónica y la calcificación previa (sugestiva de cavernoma calcificado o secuela infecciosa antigua). Sin EVC agudo.
+
+24 horas (Estado Actual): Se ingresó con diagnóstico de trabajo de ""crisis convulsiva"" (a pesar del EEG normal).
+
+Clínica: Paciente somnoliento, sigue órdenes simples pero no abre los ojos ante frotamiento esternal. Esfuerzo respiratorio visiblemente aumentado.
+
+Labs adicionales: CK, Fibrinogeno y Amonio normales.
+
+Manejo: Se administró Tiamina IV, Lorazepam y líquidos."
+
+GROUND_TRUTH:
+T39.0

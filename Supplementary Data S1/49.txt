@@ -1,0 +1,13 @@
+CLINICAL_CASE:
+"Es un hombre de 63 años que llegó al hospital con fiebre, tos y pérdida de visión en el ojo derecho. Todo empezó unas tres semanas antes, cuando tuvo vómito y diarrea, que él pensó que eran por comida en mal estado. Esos síntomas mejoraron, pero después comenzó con tos con flema grisácea, fiebre y escalofríos.
+
+Días antes de ir al hospital se cayó en la ducha y se golpeó la cabeza, aunque no perdió el conocimiento. Poco después la tos empeoró, y en el hospital encontraron muchos leucocitos en la sangre y en los estudios de imagen aparecieron múltiples nódulos en ambos pulmones, varios de ellos cavitados, además de una gran masa en el hígado compatible con un absceso.
+
+Mientras estaba hospitalizado, de forma repentina perdió la visión del ojo derecho y apareció hinchazón alrededor del ojo. Los estudios mostraron inflamación grave dentro del ojo y en la órbita, además de pequeñas lesiones en el cerebro, probablemente causadas por émbolos infecciosos que se habían diseminado por la sangre.
+
+Los médicos sospecharon que la infección había empezado en el hígado y luego se había propagado a otros órganos, como pulmones, cerebro y ojo. A pesar del tratamiento con antibióticos, la infección ocular empeoró mucho, por lo que finalmente tuvieron que retirar el ojo afectado.
+
+Los estudios microbiológicos de diferentes muestras confirmaron la bacteria responsable de la infección, y el paciente recibió tratamiento prolongado con antibióticos durante varios meses, con lo que las lesiones en pulmón, cerebro e hígado fueron mejorando gradualmente."
+
+GROUND_TRUTH:
+A41.3

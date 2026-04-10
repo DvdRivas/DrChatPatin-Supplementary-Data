@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso complejo.
+
+Se trata de una mujer de 45 años con aproximadamente dos años de evolución de lesiones renales y óseas bilaterales. Inicialmente fue estudiada por una masa renal izquierda sospechosa de carcinoma de células renales, por lo que se realizó una nefrectomía parcial; sin embargo, el estudio histopatológico no evidenció tumor y solo mostró cambios inflamatorios y fibróticos leves.
+
+Posteriormente se identificaron nuevas lesiones renales y una biopsia percutánea dirigida a una lesión en el polo inferior del riñón derecho mostró tejido fibroso retroperitoneal con fibrosis de patrón estoriforme e infiltrado linfoplasmocítico. Las células plasmáticas mostraban tinción politípica para cadenas ligeras, con presencia de células plasmáticas IgG4+, aunque con una proporción menor al 40%.
+
+En estudios posteriores con PET-TC y resonancia magnética se identificaron múltiples lesiones óseas en el esqueleto apendicular, incluyendo ambos húmeros, acetábulos, fémures distales, tibias proximales y peronés, algunas con aspecto lítico y captación de FDG. Las biopsias óseas mostraron infiltrados linfohistiocíticos con abundantes células plasmáticas, fibrosis y células plasmáticas IgG4+ dispersas, sin evidencia de clonabilidad.
+
+En los estudios de laboratorio se documentó hipergammaglobulinemia policlonal leve con niveles séricos ligeramente elevados de IgG4, pero con proteína C reactiva repetidamente normal. Clínicamente, la paciente presenta fatiga y dolor en el hombro izquierdo, sin fiebre, pérdida de peso ni linfadenopatías.
+
+Con este cuadro de fibrosis retroperitoneal, infiltrados linfoplasmocíticos con células IgG4+, hipergammaglobulinemia policlonal y múltiples lesiones óseas en el esqueleto apendicular sin evidencia de malignidad ni clonabilidad en las biopsias, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+D76.3

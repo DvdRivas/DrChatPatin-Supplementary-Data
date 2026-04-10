@@ -1,0 +1,55 @@
+CLINICAL_CASE:
+"me gustaría pedirte tu opinión sobre un caso que acabamos de ingresar. Se trata de una femenina de 17 años con un cuadro agudo de deterioro respiratorio y hallazgos sistémicos preocupantes.
+
+Aquí te presento el resumen del caso:
+
+Historia Clínica y Evolución
+Inicio (hace 10 días): Comenzó con fiebre, tos productiva (esputo claro), fatiga, rinorrea, odinofagia, mialgias y ojo rojo bilateral.
+
+Día 3 de evolución: Evaluada en otro centro. Se documentó inyección conjuntival. PCR para SARS-CoV-2 negativa. Pulmones limpios. Manejo sintomático.
+
+Día 5 de evolución: Persistencia de fiebre. Aparición de dolor torácico leve y esputo con rastros de sangre. Test rápido de Influenza A/B negativo.
+
+Día 7 de evolución: Disnea progresiva e insomnio por tos. Inició tratamiento empírico con Amoxicilina vía telemedicina.
+
+Ingreso actual (Día 10): Acude por empeoramiento de la disnea, dolor pleurítico en hemitórax y dorso izquierdo, y hemoptisis franca (esputo con estrías de sangre roja brillante). Refiere también dolor en ambas rodillas al caminar.
+
+Antecedentes
+Displasia del desarrollo de la cadera.
+
+Obesidad (IMC 35.9).
+
+Sin historia de tabaquismo ni consumo de sustancias. Sin contactos enfermos conocidos.
+
+Exploración Física al Ingreso
+Signos Vitales: T 38.5°C, FC 124 lpm, PA 142/62 mmHg, FR 30 rpm, SatO2 97% (aire ambiente).
+
+General: Palidez mucocutánea marcada. Tos frecuente.
+
+Respiratorio: Murmullo vesicular disminuido en bases pulmonares. Sin uso de musculatura accesoria.
+
+Otros: El ojo rojo había resuelto (solo molestia leve en ojo derecho). Sin erupciones cutáneas, sin edema articular ni adenopatías.
+
+Estudios Complementarios Relevantes
+Laboratorio:
+
+Hematología: Hb 6.7 g/dL (Anemia severa), Hto 21.1%, Plaquetas 526,000 (trombocitosis reactiva), Leucocitos 11,890.
+
+Renal: Creatinina 2.00 mg/dL, Urea elevada.
+
+Reactantes de fase aguda: PCR 77.5 mg/L.
+
+Uroanálisis: Sangre 3+, Proteínas 2+.
+
+Sedimento Urinario: >100 eritrocitos por campo, cilindros granulosos y cilindros hemáticos.
+
+Microbiología: PCR repetida para COVID, Influenza y VSR negativa. IGRA (TB) pendiente.
+
+Imagenología:
+
+Rx de Tórax: Opacidades parcheadas prominentes en zonas inferiores.
+
+TC de Tórax (sin contraste):Opacidades parcheadas en vidrio deslustrado de distribución periférica, con mayor afectación de lóbulos inferiores respecto a los superiores. Preservación de algunas áreas pulmonares (""sparing""). No hay adenopatías significativas."
+
+GROUND_TRUTH:
+M31.3

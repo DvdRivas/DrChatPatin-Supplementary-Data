@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso respiratorio en una paciente adulta mayor.
+
+Se trata de una mujer de 80 años previamente activa que comenzó hace aproximadamente 8 semanas con tos productiva, fatiga, anorexia y pérdida de peso. Inicialmente presentó también rinorrea y cefalea que posteriormente se resolvieron, pero la tos y el deterioro general persistieron. Durante este período perdió aproximadamente 6 kg.
+
+Cinco semanas antes del ingreso desarrolló una erupción vesicular pruriginosa con distribución dermatomal en el flanco izquierdo, diagnosticada como herpes zóster, por lo que recibió tratamiento con valaciclovir. A pesar de la resolución de la erupción, la tos, la fatiga, los escalofríos y la anorexia continuaron.
+
+Seis días antes del ingreso presentó fiebre subjetiva y posteriormente desarrolló disnea progresiva, por lo que acudió a urgencias. Al examen se encontraba hipoxémica, con saturación de oxígeno del 83% en aire ambiente que mejoraba con oxígeno suplementario. En la auscultación pulmonar se escuchaban roncus difusos, más prominentes en el lóbulo inferior derecho.
+
+Los estudios iniciales descartaron infección por SARS-CoV-2, influenza, virus respiratorio sincitial y otros virus respiratorios. También fueron negativas las pruebas para Mycoplasma pneumoniae, Chlamydia pneumoniae y Bordetella pertussis.
+
+La radiografía de tórax mostró opacidades perihiliares borrosas. La tomografía computarizada de tórax reveló opacidades difusas en vidrio deslustrado de predominio central en ambos pulmones, con leve engrosamiento septal interlobulillar, sin derrame pleural, sin linfadenopatías y sin nódulos pulmonares.
+
+Entre los antecedentes relevantes destacan un diagnóstico previo de carcinoma escamocelular metastásico de sitio primario desconocido tratado quirúrgicamente un año antes, múltiples viajes internacionales en el pasado (incluyendo África Oriental) y actividad sexual hasta dos años antes del ingreso.
+
+Con este cuadro de evolución subaguda con tos, pérdida de peso, hipoxemia progresiva y opacidades bilaterales en vidrio deslustrado, junto con el antecedente reciente de herpes zóster, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+B20.6, B59, B45.0

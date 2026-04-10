@@ -1,0 +1,29 @@
+CLINICAL_CASE:
+"Un hombre de 91 años fue evaluado en la clínica de cirugía ortopédica debido a dolor en la rodilla izquierda. Hasta seis meses antes, el paciente se encontraba en su estado de salud habitual, residiendo en una residencia para personas mayores con independencia funcional. Tenía antecedentes de artroplastia total de rodilla izquierda 20 años antes, sin dolor recurrente hasta esta presentación.
+
+El dolor se presentaba en reposo y se exacerbaba con la actividad con carga. Durante los cuatro meses siguientes, el dolor empeoró y el paciente se sentía inestable al caminar, comenzando a usar un andador con ruedas y una silla de ruedas para distancias mayores.
+
+Tres semanas antes de la evaluación actual, fue evaluado en otra clínica de cirugía ortopédica. Refirió dolor difuso en la rodilla, más intenso en la cara medial, con hinchazón pero sin eritema ni calor. Se observó derrame moderado, amplitud de movimiento normal y dolor a la palpación de la línea articular medial. La fuerza y la sensibilidad eran normales, salvo por caída crónica del pie derecho. Presentaba edema con fóvea en las piernas y piel seca, sin lesiones ni úlceras activas.
+
+Estudios de laboratorio e imagen
+
+La velocidad de sedimentación globular fue de 13 mm/h y la proteína C reactiva de 15,9 mg/L. La aspiración de líquido sinovial reveló líquido sanguinolento, con recuento total de células nucleadas de 6190/μL (68% neutrófilos, 4% linfocitos, 28% macrófagos). El inmunoensayo para α-defensina fue positivo, y los cultivos bacterianos iniciales no mostraron crecimiento.
+
+La tomografía computarizada reveló alineación normal de los componentes protésicos, con una lesión sólida de tejido blando lateral en la metadiáfisis femoral distal, con remodelación cortical, erosión y osteólisis. La resonancia magnética mostró una masa adyacente al cóndilo femoral lateral, con afectación del espacio articular lateral, derrame articular significativo y sinovitis extensa.
+
+Nuevos cultivos de líquido sinovial permanecieron negativos tras 14 días de incubación.
+
+Antecedentes médicos relevantes
+
+El paciente presentaba hipertensión, dislipidemia, enfermedad coronaria, insuficiencia cardíaca con fracción de eyección preservada, hipotiroidismo, hiperplasia prostática benigna y apnea del sueño. Tenía antecedentes quirúrgicos de artroplastia total de rodilla izquierda, colocación de filtro de vena cava inferior y tratamiento con BCG intravesical para carcinoma de vejiga hace cinco años, con sepsis post-procedimiento.
+
+Tenía antecedentes de úlceras por estasis venosa, una de las cuales había estado colonizada por Staphylococcus aureus sensible a meticilina un año antes, tratada con cefalexina. No presentaba infecciones articulares previas ni procedimientos recientes en la rodilla.
+
+Actualmente tomaba amlodipino, carvedilol, empagliflozina, finasterida, levotiroxina, simvastatina, tamsulosina, torsemida y valsartán.
+
+Examen físico actual
+
+Presión arterial 148/78 mmHg, pulso 71 lpm, FR 20/min, saturación de O₂ 90% en aire ambiente. IMC 36,4. Se observó hematoma en la cara medial de la rodilla izquierda en el sitio de aspiración previa; resto del examen sin cambios significativos. Nueva aspiración de líquido sinovial mostró líquido sanguinolento con 5657 células nucleadas/μL (79% neutrófilos, 11% linfocitos, 7% monocitos, 2% eosinófilos, 1% macrófagos). Tinción de Gram: leucocitos polimorfonucleares raros, sin organismos. Cultivos bacterianos y fúngicos negativos."
+
+GROUND_TRUTH:
+T84.5, A18.0

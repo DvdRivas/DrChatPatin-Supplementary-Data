@@ -1,0 +1,19 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso gastrointestinal con manifestaciones sistémicas.
+
+Se trata de una mujer de 43 años previamente sana que consultó por 6 meses de dolor abdominal difuso tipo cólico y diarrea no sanguinolenta de hasta 10 evacuaciones al día. Durante ese período también presentó disminución del apetito y pérdida de aproximadamente 5 kg de peso.
+
+En los últimos 4 meses notó oscurecimiento progresivo de la piel de la cara, brazos y piernas, además de caída del cabello en parches y cambios progresivos en las uñas de manos y pies. No presentaba fiebre, vómitos, hematemesis ni hematoquezia.
+
+Entre sus antecedentes destaca síndrome de ovario poliquístico. Diez meses antes había comenzado a tomar un preparado de medicina tradicional china con ingredientes desconocidos durante 4 meses, el cual suspendió cuando comenzaron los síntomas gastrointestinales.
+
+En la exploración física los signos vitales eran normales. El abdomen estaba blando y no doloroso. Se observaba edema con fóvea en ambas piernas hasta la mitad de las pantorrillas.
+
+El examen dermatológico mostró alopecia en parches con un área extensa en el vértice del cuero cabelludo, hiperpigmentación facial simétrica en regiones malares y máculas marrón-grisáceas en palmas y superficies palmares de los dedos. Todas las uñas de manos y pies presentaban onicodistrofia con adelgazamiento, onicolisis distal y onicomadesis.
+
+Los estudios de laboratorio mostraron anemia microcítica leve (Hb ≈10 g/dL), hipopotasemia, hipocalcemia, hipofosfatemia y niveles bajos de zinc. La albúmina sérica estaba marcadamente disminuida (≈14 g/L). Los marcadores inflamatorios eran normales. El análisis de orina no mostró proteinuria. Los estudios microbiológicos de heces fueron negativos para bacterias, toxinas y parásitos.
+
+Con este cuadro de diarrea crónica, pérdida de peso, hipoalbuminemia compatible con enteropatía perdedora de proteínas, junto con hiperpigmentación cutánea, alopecia y alteraciones ungueales, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+K63.8, Q87.8

@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso clínico complejo.
+
+Se trata de un hombre de 56 años con aproximadamente un año de evolución de diarrea acuosa crónica, espumosa y sin sangre, asociada a distensión abdominal y pérdida de peso significativa (≈23 kg). En estudios iniciales se describió mucosa duodenal festoneada con atrofia vellosa y linfocitosis intraepitelial, aunque la serología para enfermedad celíaca fue negativa y posteriormente también se descartaron los haplotipos HLA-DQ2 y HLA-DQ8.
+
+Durante la evolución presentó infecciones recurrentes por Giardia confirmadas en múltiples estudios de heces, con respuesta solo transitoria a diversos tratamientos antiparasitarios. En estudios de laboratorio se documentaron deficiencias de inmunoglobulinas, con niveles indetectables de IgA e IgM y alteraciones en subclases de IgG, además de evidencia de desnutrición por malabsorción.
+
+Las imágenes abdominales mostraron engrosamiento de asas yeyunales proximales y posteriormente una fístula enterocolónica entre el yeyuno proximal y el colon transverso. Las biopsias intestinales mostraron enteritis inflamatoria con escasez de células plasmáticas en la lámina propia. Con base en estos hallazgos se consideró inicialmente una enteropatía tipo enfermedad de Crohn y se inició tratamiento con infliximab.
+
+Un mes después, el paciente reingresó por dolor abdominal en fosa iliaca izquierda y anemia severa. La angiografía por TC mostró nuevos segmentos del yeyuno proximal con engrosamiento mural marcado, dilatación aneurismática e hiporrealce sugestivo de compromiso isquémico o infiltrativo.
+
+Con este cuadro de diarrea crónica, malabsorción, infecciones entéricas recurrentes asociadas a hipogammaglobulinemia, enteropatía inflamatoria con fístula yeyuno-colónica y nuevas lesiones yeyunales con engrosamiento y dilatación segmentaria, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C83.3

@@ -1,0 +1,13 @@
+CLINICAL_CASE:
+"Es un paciente de 49 años con leucemia mieloide aguda que estaba hospitalizado recibiendo quimioterapia de inducción. Durante su estancia empezó con fiebre prolongada mientras tenía neutropenia. En la exploración se escuchaban crepitaciones en las bases pulmonares.
+
+Le hicieron una tomografía de tórax y encontraron lesiones redondeadas en ambos pulmones con un patrón llamado “signo del halo invertido”, que suele sugerir infecciones fúngicas invasivas. Por eso iniciaron tratamiento con anfotericina B. Después analizaron líquido obtenido de los pulmones y una prueba molecular salió positiva para hongos del grupo mucorales.
+
+Dos semanas después repitieron la tomografía y vieron cambios en las lesiones, con más consolidación en la periferia y cavitación en el centro, algo que suele ocurrir cuando empiezan a recuperarse los neutrófilos.
+
+Finalmente realizaron cirugía para retirar la parte afectada del pulmón. El estudio del tejido mostró necrosis en el centro de la lesión y estructuras del hongo dentro de los vasos sanguíneos. Con pruebas moleculares identificaron el microorganismo específico.
+
+Después de la cirugía el paciente se fue a casa con tratamiento antifúngico preventivo, y dos semanas más tarde pudo someterse a trasplante de células madre hematopoyéticas."
+
+GROUND_TRUTH:
+B46.0

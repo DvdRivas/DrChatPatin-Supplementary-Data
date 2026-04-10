@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Es una mujer de 80 años que empezó hace unos dos meses con tos productiva, cansancio, poco apetito y pérdida de peso. Al principio también tuvo rinorrea y dolor de cabeza, por lo que pensó que era gripe y no fue al médico. Esos síntomas mejoraron, pero la tos y el cansancio continuaron.
+
+Unas semanas después le apareció una erupción vesicular dolorosa en el costado, que le diagnosticaron como herpes zóster y le dieron tratamiento antiviral. Aunque esa lesión mejoró, la tos, los escalofríos, el cansancio y la pérdida de peso siguieron.
+
+Días antes de ir al hospital empezó con fiebre y dificultad para respirar. En urgencias encontraron que tenía oxígeno bajo en sangre y en la exploración pulmonar había ruidos respiratorios anormales. La radiografía y la tomografía mostraron opacidades difusas en ambos pulmones con patrón de “vidrio esmerilado”.
+
+Le hicieron muchas pruebas para infecciones respiratorias comunes y todas salieron negativas. Entonces los médicos empezaron a pensar en causas menos comunes y en la posibilidad de que el sistema inmunológico estuviera debilitado. Por sus antecedentes (viajes internacionales, historia sexual y el reciente herpes zóster) decidieron hacer pruebas adicionales.
+
+Finalmente, un análisis de sangre confirmó una infección viral que había avanzado mucho y había debilitado su sistema inmune. Después, al estudiar muestras de las vías respiratorias con lavado broncoalveolar, identificaron un microorganismo oportunista en los pulmones, que explicaba la tos, la fiebre, la hipoxemia y las imágenes pulmonares.
+
+La paciente recibió tratamiento antimicrobiano específico, corticoides y terapia antiviral, con lo que mejoraron los síntomas y la oxigenación, y después continuó con seguimiento médico."
+
+GROUND_TRUTH:
+B20.6, B59, B45.1

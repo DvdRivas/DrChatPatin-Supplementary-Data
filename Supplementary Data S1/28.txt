@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso psiquiátrico en el posparto.
+
+Se trata de una mujer de 30 años que acude a consulta aproximadamente 4 semanas después del nacimiento de su primer hijo por ansiedad intensa, insomnio y pensamientos intrusivos. El embarazo cursó principalmente sin complicaciones, salvo hipertensión gestacional. El parto fue vaginal a término y el recién nacido está sano.
+
+Desde el regreso a casa ha presentado dificultad para dormir, ansiedad marcada, disminución del apetito y sensación de estar abrumada con el cuidado del bebé. Refiere sentirse agotada, emocionalmente desconectada y con dudas constantes sobre su capacidad para cuidar a su hijo. En ocasiones expresa pensamientos de desesperanza, incluso ha mencionado que a veces desearía estar muerta, aunque niega planes suicidas.
+
+Durante la evaluación psiquiátrica describe pensamientos intrusivos recurrentes de hacer daño al bebé, específicamente imágenes de apuñalarlo, que le generan intensa angustia. Refiere que estos pensamientos son no deseados y egodistónicos. Debido a ellos evita la cocina por la presencia de cuchillos, evita sostener o alimentar al bebé y realiza conductas repetitivas de comprobación para asegurarse de que el bebé está bien y respirando. Busca constantemente confirmación de familiares o información en internet para tranquilizarse.
+
+En el examen mental se observa ansiedad, afecto restringido y llanto frecuente, pero mantiene buen juicio de realidad y reconoce que estos pensamientos son irracionales y no desea actuar sobre ellos.
+
+Con este cuadro de ansiedad intensa en el posparto temprano, pensamientos intrusivos de daño al bebé que son egodistónicos, conductas evitativas y de comprobación repetitiva, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+F42.9, O99.3

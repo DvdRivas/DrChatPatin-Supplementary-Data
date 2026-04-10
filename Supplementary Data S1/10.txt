@@ -1,0 +1,89 @@
+CLINICAL_CASE:
+"te comento un caso de una paciente pediátrica (adolescente) que tenemos ingresada, a ver qué opinas del cuadro clínico y el abordaje.
+
+Se trata de una femenina de 16 años que ingresa por dolor abdominal.
+
+Historia de la Enfermedad Actual
+Inicio: Hace 4 semanas.
+
+Evolución: Comenzó con dolor abdominal intermitente cada pocos días. En las últimas 2 semanas, la frecuencia aumentó a dos veces al día, con episodios cortos de aprox. 2 minutos.
+
+Síntomas asociados: Hace 2 semanas inició con náuseas y vómitos, interfiriendo con su escolaridad.
+
+Características del dolor actual: Severo, de inicio abrupto, seguido de náusea. Dato relevante: El dolor disminuye después de vomitar. No tiene relación con menstruación, postura o ingesta.
+
+Otros síntomas: Hiporexia, fatiga, mareo y constipación progresiva (sin evacuaciones en los últimos 3 días).
+
+Evaluaciones Previas (Otras instituciones)
+Hace 2 semanas (Urgencias):
+
+Dolor 8/10 punzante en epigastrio y cuadrantes superiores.
+
+Taquicardia (105 lpm). Mucosas secas. Dolor a la palpación con defensa muscular.
+
+Labs: Leucocitosis de 14,900, Hb 11.3. EGO y hCG negativos.
+
+Imagen: USG abdominal pélvico normal (apéndice no visualizado).
+
+Manejo: Alta con AINEs, famotidina y ondansetrón. La paciente notó que el ibuprofeno empeoraba el dolor.
+
+Hace 1 semana (Urgencias):
+
+Dolor nocturno (la despertó).
+
+Exploración sin dolor a la palpación en ese momento.
+
+Labs: Leucocitos 13,000, Hb 11.4.
+
+Imagen: USG repetido normal.
+
+Perfil de ITS (Gonorrea/Clamidia) negativo.
+
+Ingreso Actual
+Clínica: Episodios de dolor más prolongados (15 min), vómito en 5 ocasiones.
+
+Exploración Física:
+
+Afebril, normotensa, FC 84 lpm. IMC 25.8.
+
+Paciente con arcadas activas durante la revisión.
+
+Abdomen blando, doloroso difusamente (predominio epigástrico), con defensa voluntaria (guarding) pero sin rebote. Tacto rectal normal, ampolla vacía.
+
+Antecedentes Personales:
+
+Anemia ferropénica, trastorno de ansiedad.
+
+Historia de pica durante la infancia.
+
+Vida sexual activa (usa preservativo).
+
+Uso de marihuana (último consumo hace 4 semanas). Niega alcohol o tabaco.
+
+Carga genética para enfermedad ácido-péptica (abuela) y ansiedad/depresión (padre).
+
+Paraclínicos e Imagenología Actual
+Laboratorio:
+
+Leucocitosis persistente: 15,720 (Neutrofilia).
+
+Anemia: Hb 10.8 g/dL (descenso progresivo respecto a previos).
+
+PFH, QS y Electrolitos: Normales.
+
+hCG en orina: Negativo.
+
+TC de Abdomen (con contraste IV, sin oral):
+
+Muestra contenido gástrico presente.
+
+Apéndice normal.
+
+Sin evidencia de obstrucción intestinal mecánica.
+
+Escasa cantidad de heces en colon ascendente y sigmoides.
+
+Evolución intrahospitalaria inmediata: Se intentó manejo sintomático con ""cóctel GI"" (aluminio/magnesio/lidocaína) y citrato de magnesio, pero la paciente vomitó inmediatamente tras la administración."
+
+GROUND_TRUTH:
+T18.2

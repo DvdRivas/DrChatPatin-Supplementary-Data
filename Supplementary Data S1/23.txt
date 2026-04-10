@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola colega,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso neurológico complejo.
+
+Se trata de una mujer de 57 años con historia de cefaleas frontotemporales recurrentes durante los últimos dos años. Seis meses antes del ingreso actual presentó cefalea intensa acompañada de confusión y convulsiones tónico-clónicas generalizadas. En ese momento, una tomografía craneal sugirió una pequeña hemorragia subaracnoidea convexa y se identificó una presunta fístula arteriovenosa pial que fue tratada mediante embolización.
+
+A pesar del tratamiento, en los meses siguientes la paciente continuó presentando convulsiones recurrentes, episodios de temblor en el brazo y la pierna derechos y alteraciones visuales persistentes en el campo visual derecho descritas como “destellos, círculos y colores”. Posteriormente desarrolló diplopía vertical, dismetría leve y parálisis de la cuerda vocal derecha.
+
+Las resonancias magnéticas seriadas han mostrado progresión de hiperintensidades intrínsecas nodulares en secuencias ponderadas en T1 localizadas en los surcos corticales y leptomeninges, principalmente en regiones parieto-occipitales izquierdas, con extensión posterior a otras regiones corticales y estructuras del tronco encefálico. También se ha observado engrosamiento leptomeníngeo progresivo.
+
+El análisis del líquido cefalorraquídeo mostró parámetros prácticamente normales, sin pleocitosis ni células malignas en citología o citometría de flujo. Otros estudios sistémicos no han identificado neoplasia primaria evidente.
+
+Con este cuadro de convulsiones progresivas, déficits de pares craneales, alteraciones visuales persistentes y lesiones leptomeníngeas hiperintensas en T1 con progresión en las neuroimágenes, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C43.9, C79.3

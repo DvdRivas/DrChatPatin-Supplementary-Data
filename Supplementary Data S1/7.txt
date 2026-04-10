@@ -1,0 +1,33 @@
+CLINICAL_CASE:
+"Una mujer de 80 años fue ingresada en este hospital debido a pancitopenia y la identificación de esquistocitos en un frotis de sangre periférica.
+
+Seis semanas antes del ingreso, presentó náuseas, vómitos y diarrea, junto con escalofríos y fiebre subjetiva. Los síntomas se resolvieron después de 4 días sin intervención específica, pero posteriormente desarrolló disfagia intermitente con alimentos sólidos y saciedad temprana. Durante las siguientes 4 semanas, presentó fatiga progresiva y mareos. La fatiga avanzó hasta el punto de no poder permanecer en el trabajo más que unas pocas horas, por lo que acudió a otro hospital para evaluación.
+
+En ese hospital, refirió fatiga persistente y pérdida de 6 kg de peso en 5 semanas. A la exploración, la temperatura era 38,9 °C, el peso 55,5 kg y el índice de masa corporal 21,9. Los estudios de laboratorio revelaron pancitopenia, y el frotis de sangre periférica mostró esquistocitos. Los niveles de glucosa y electrolitos eran normales, al igual que los resultados de la función renal y hepática; se obtuvieron estudios de imagen adicionales.
+
+Se administraron líquidos intravenosos y la paciente fue ingresada. En el segundo día de hospitalización, la hemoglobina disminuyó a 6,6 g/dL y se transfundieron dos unidades de glóbulos rojos empaquetados. La esofagogastroduodenoscopia mostró inflamación difusa del esófago con exudados blancos; los cepillados revelaron levaduras consistentes con Candida, y se inició tratamiento con fluconazol.
+
+Durante los siguientes 3 días, la paciente continuó con malestar, fiebre persistente y alimentación oral limitada debido a odinofagia, mientras se continuaba la administración de líquidos intravenosos. Cultivos de sangre y orina no mostraron crecimiento. En el quinto día, se inició terapia empírica con doxiciclina por sospecha de posible enfermedad transmitida por garrapatas.
+
+En el sexto día, la saturación de oxígeno disminuyó a 89 % con aire ambiente y aumentó a 94 % con cánula nasal a 3 L/min. La TC de tórax reveló opacidades en vidrio esmerilado y engrosamiento septal interlobular, hallazgos consistentes con edema pulmonar, junto con derrames pleurales bilaterales de tamaño pequeño a moderado. Se suspendió la administración de líquidos intravenosos y se administró una dosis de furosemida intravenosa.
+
+En el séptimo día, la fiebre cedió pero la pancitopenia persistió. El frotis de sangre periférica mostró esquistocitos moderados, anisocitosis severa, plaquetas grandes y aumento de bandas sin presencia de blastos. Las pruebas de Coombs directa e indirecta fueron negativas, al igual que las pruebas de ácido nucleico para babesiosis y anaplasmosis. Los niveles de electrolitos, glucosa, cobalamina, folato, homocisteína y anticuerpos anticardiolipina IgG e IgM eran normales, así como la función renal y hepática. Las pruebas serológicas para virus Epstein-Barr indicaron infección previa. La citometría de flujo de sangre periférica mostró células mieloides fenotípicamente normales; se observó un aumento de mieloblastos CD34+ atípicos, menos del 1 % de los leucocitos, de significado clínico incierto.
+
+Se colocó un catéter tunelizado en la vena yugular interna derecha y se inició intercambio plasmático por posible púrpura trombocitopénica trombótica (PTT). También se inició nutrición parenteral total debido a la limitada ingesta oral por odinofagia.
+
+En el octavo día, aumentó la ingesta oral de alimentos blandos y líquidos. El ecocardiograma transtorácico mostró tamaño y función ventricular izquierda normales, con una válvula aórtica ligeramente engrosada sin estenosis ni regurgitación; hubo regurgitación mitral y tricúspide mínima.
+
+En el noveno día, se realizó un intercambio plasmático adicional y la paciente fue transferida a este hospital para continuar la atención.
+
+A su evaluación en este hospital, refirió mayor nivel de energía y recordó haber presentado confusión leve en el otro hospital, la cual se había resuelto. No tuvo sangrado gingival ni sangre en heces u orina. Otros antecedentes incluyeron hipertensión y dislipidemia. Antecedentes quirúrgicos: histerectomía a los 40 años sin sangrado vaginal desde entonces.
+
+Un año antes, análisis rutinarios mostraron trombocitopenia y anemia leves. La biopsia de médula ósea reveló médula ligeramente hipertrófica con hematopoyesis trilineal en maduración, algunas anormalidades eritroides y megacariocitos hipercromáticos ocasionales; el análisis citogenético mostró pérdida de cromosomas 3 y 5 y ganancia del cromosoma 8 en 65 % de las células. Posteriormente, los conteos sanguíneos se monitorizaron cada 4 meses y se mantuvieron estables.
+
+La medicación incluía amlodipino, atorvastatina e hidroclorotiazida. No había alergias conocidas a medicamentos. Consumía alcohol ocasionalmente y no usaba drogas ilícitas. Había fumado durante 50 años, pero había dejado de hacerlo hace 5 años. Era viuda y vivía sola en Nueva Inglaterra; trabajaba limpiando una iglesia varios días a la semana. Su hermana tuvo cáncer de mama a los 30 años y su hermano cáncer testicular joven y cáncer de hígado a los 55 años.
+
+En la exploración, la temperatura era 36,8 °C, la presión arterial 150/65 mm Hg, pulso 72 latidos por minuto, frecuencia respiratoria 18 respiraciones por minuto y saturación de oxígeno 97 % con cánula nasal a 2 L/min. La paciente estaba alerta, orientada y no parecía enferma. No había petequias ni sangrado en el sitio de colocación del catéter tunelizado. Los ruidos cardíacos eran normales; se auscultó un soplo sistólico grado 2/6 en el borde esternal inferior izquierdo. La exploración restante era normal.
+
+El frotis de sangre periférica mostró esquistocitos, anisocitosis y recuento bajo de plaquetas, con presencia de plaquetas grandes; los glóbulos blancos eran normales y no había blastos. La electroforesis de proteínas séricas fue normal. Los niveles de cadenas ligeras libres kappa y lambda estaban aumentados, con una relación normal. La prueba de infección por VIH fue negativa. El análisis de orina mostró urobilinógeno 2+, sin bilirrubina, sangre, glucosa, cetonas, proteínas o nitratos; gravedad específica y pH normales. Se solicitó consulta de ginecología por las masas pélvicas bilaterales observadas en la TC de abdomen y pelvis. Los niveles sanguíneos de CA 125, CA 19-9 y antígeno carcinoembrionario fueron normales, y se recomendó seguimiento en clínica de ginecología tras el alta. Otros resultados de laboratorio se obtuvieron previamente."
+
+GROUND_TRUTH:
+D46.9, M31.1

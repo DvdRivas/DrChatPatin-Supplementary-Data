@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Es un hombre de 53 años que inicialmente fue hospitalizado por un evento cerebrovascular que se manifestó con debilidad en el brazo y la pierna derechos y dificultad para hablar. Durante la evaluación se descubrió que tenía disfunción grave del ventrículo izquierdo, con fracción de eyección muy baja y dilatación del corazón.
+
+Los estudios cardiacos mostraron movimiento anormal y adelgazamiento en la región apical del ventrículo izquierdo, formando un aneurisma en esa zona, lo que favorecía flujo sanguíneo lento y formación de coágulos. Esto probablemente explicó que un trombo del corazón viajara al cerebro y causara el evento cerebrovascular.
+
+Se descartó enfermedad coronaria obstructiva, por lo que la cardiomiopatía se consideró no isquémica. El paciente tenía antecedentes de consumo elevado de alcohol y tabaquismo, pero incluso después de varios meses sin beber, la disfunción cardíaca persistió.
+
+Debido a que el paciente había emigrado de Centroamérica, los médicos consideraron una causa infecciosa que puede producir cardiomiopatía dilatada, aneurisma apical, arritmias y eventos tromboembólicos. Por ello solicitaron pruebas serológicas específicas, que resultaron positivas para el microorganismo responsable.
+
+El diagnóstico se confirmó mediante detección de anticuerpos contra el parásito, lo que indicó una infección crónica que había afectado el corazón durante años.
+
+El tratamiento se centró principalmente en manejo de insuficiencia cardiaca con medicamentos, prevención de muerte súbita con dispositivos cardíacos y anticoagulación para evitar nuevos embolismos. Con el seguimiento, la función cardíaca mejoró parcialmente, aunque el aneurisma apical persistió."
+
+GROUND_TRUTH:
+B57.9

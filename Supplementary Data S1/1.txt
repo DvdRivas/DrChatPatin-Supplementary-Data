@@ -1,0 +1,5 @@
+CLINICAL_CASE:
+Varón de 25 años, sin antecedentes heredofamiliares de relevancia, contacto habitual con caninos,ovinos y aves silvestres, sin toxicomanías.Cuadro de cinco meses de evolución caracterizado por dolor torácico irradiado a brazo izquierdo acompañado de tos con expectoración verdosa,síndrome febril intermitente y hemoptoico en tres ocasiones, cursando con diversos tratamientos antimicrobianos, sin mejoría.
+
+GROUND_TRUTH:
+A16.4

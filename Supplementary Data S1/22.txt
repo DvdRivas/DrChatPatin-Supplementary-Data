@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso.
+
+Se trata de un hombre de 91 años que consulta por disnea progresiva de esfuerzo desde hace aproximadamente 8 meses, acompañada de tos intermitente y pérdida de peso significativa en los últimos 6 meses. Durante este período también ha presentado congestión sinusal, rinorrea y anosmia. En varias evaluaciones previas se documentaron opacidades pulmonares fluctuantes en radiografías de tórax y episodios de sibilancias.
+
+En los estudios de laboratorio destaca una eosinofilia marcada, con un recuento absoluto de eosinófilos de 27 390/µL y leucocitosis importante. El frotis de sangre periférica muestra eosinófilos maduros sin displasia evidente. Los niveles de vitamina B12 y triptasa son normales. Se observan niveles elevados de IgG e IgE, con IgE específica contra Aspergillus fumigatus elevada.
+
+La tomografía de tórax muestra engrosamiento difuso de la pared bronquial, taponamiento mucoso y patrón en árbol en brote, además de adenopatías mediastínicas. También se han documentado elevaciones de troponina y NT-proBNP.
+
+Con este cuadro de eosinofilia marcada, síntomas respiratorios crónicos, afectación de vías respiratorias superiores y hallazgos pulmonares fluctuantes, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+M30.1

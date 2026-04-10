@@ -1,0 +1,19 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso hematológico.
+
+Se trata de un hombre de 21 años previamente sano que consulta por 4 semanas de evolución de fatiga progresiva. El cuadro comenzó con un episodio breve de náuseas y vómitos que se resolvió en un día, pero posteriormente persistió la fatiga. Dos semanas antes de la consulta comenzó con mareos, especialmente al cambiar de posición, y sudoraciones nocturnas.
+
+En urgencias se encontró taquicardia y palidez conjuntival. Los estudios iniciales mostraron pancitopenia con anemia significativa. El nivel de hemoglobina era de aproximadamente 5 g/dL y el volumen corpuscular medio estaba elevado (≈106 fL). También presentaba leucopenia y trombocitopenia. El nivel de lactato deshidrogenasa estaba marcadamente elevado (>2500 U/L) y la bilirrubina indirecta estaba aumentada. La función renal, electrolitos y pruebas hepáticas eran normales.
+
+El frotis de sangre periférica mostró anemia macrocítica con anisopoiquilocitosis y escasez de leucocitos; algunos neutrófilos presentaban morfología anormal con segmentación aumentada. El recuento de reticulocitos estaba elevado pero inapropiadamente bajo para el grado de anemia.
+
+La prueba de antiglobulina directa fue negativa para IgG, aunque positiva para C3 en el examen microscópico. El análisis de orina mostró urobilinógeno positivo sin hematuria ni proteinuria. Las pruebas para VIH, enfermedad de Lyme y SARS-CoV-2 fueron negativas.
+
+En la exploración física no había linfadenopatías ni hallazgos cardiopulmonares o abdominales relevantes, aunque se observaban áreas de hipopigmentación cutánea compatibles con vitíligo. Una ecografía abdominal mostró esplenomegalia leve.
+
+Con este cuadro de pancitopenia, anemia macrocítica marcada, elevación importante de LDH, leve hiperbilirrubinemia indirecta, reticulocitosis inapropiada y antecedente de enfermedad autoinmune cutánea, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+D51.0

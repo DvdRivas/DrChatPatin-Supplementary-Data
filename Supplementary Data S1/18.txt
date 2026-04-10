@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión sobre un caso que estamos evaluando en la clínica de enfermedades infecciosas.
+
+Se trata de un hombre de 36 años previamente sano que comenzó hace aproximadamente 18 días con sensación de hinchazón en la garganta, seguida pocos días después de fiebre de hasta 38.4 °C. Inicialmente fue evaluado en una clínica de urgencias donde se observaron supuestas manchas blancas en las amígdalas, por lo que se inició tratamiento con amoxicilina–ácido clavulánico por sospecha de faringitis estreptocócica. Sin embargo, el cultivo faríngeo fue negativo y la fiebre persistió.
+
+En los días posteriores el paciente continuó con fiebre, cefalea y posteriormente desarrolló fatiga. Había viajado recientemente al suroeste de Estados Unidos con su esposa, quien durante el viaje presentó un cuadro febril con dolor de garganta que se resolvió espontáneamente. El paciente refería más bien una sensación de hinchazón en la parte inferior del cuello con molestias al moverlo, pero sin disfagia ni odinofagia.
+
+Los estudios iniciales mostraron hemograma y bioquímica normales, pero proteína C reactiva elevada. Los hemocultivos fueron negativos y la radiografía de tórax no mostró alteraciones. Posteriormente, la PCR y la VSG aumentaron aún más. Una tomografía de cuello, tórax y abdomen mostró un posible nódulo hipoatenuante en el lóbulo tiroideo derecho, aunque la evaluación tiroidea fue limitada.
+
+Durante la valoración en nuestra clínica el paciente continuaba con fiebre predominantemente nocturna (hasta 39.5 °C), sudores nocturnos ocasionales, cefalea y fatiga. En la exploración física se observó taquicardia (≈130 lpm) y tejido tiroideo palpable, firme y ligeramente aumentado en la región anterior del cuello. No se observaron adenopatías ni signos claros de infección localizada.
+
+Con este cuadro de fiebre subaguda, marcadores inflamatorios elevados, molestias cervicales anteriores y hallazgos sugestivos en la región tiroidea, me gustaría conocer tu opinión sobre cuál considerarías el diagnóstico más probable "
+
+GROUND_TRUTH:
+E06.1

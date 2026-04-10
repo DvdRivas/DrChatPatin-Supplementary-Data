@@ -1,0 +1,5 @@
+CLINICAL_CASE:
+Varón de 12 años de edad, quien acude a consulta por dolor de garganta de 4 dias de evolución, asociado a coluria y palidez de 3 dias de evolución. A la evaluación física se observa ictericia conjuntival y en lengua (Panel A) así como coluria (Panel B). Laboratorios: hemoglobina en 6.1 gr/dl, LDH en 6405 U/lt, una bilirrubina indirecta en 6.7 mg/dl. Se realiza un test de antiglobulina directa (o COOMS directo) el cual positivo así mismo se detectan aglutininas frias. El uroanálisis positivo para hemoglobina, no se observaron células rojas en la microscopia. El examen de anticuerpos heterofilos fue positivo asi como la PCR y las pruebas serológicas para el Virus de Epstein-Bar (VEB) con una PCR cuantitativa con una carga viral de 36,000 IU/ml.
+
+GROUND_TRUTH:
+D59.1, B27.9

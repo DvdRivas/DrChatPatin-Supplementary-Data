@@ -1,0 +1,53 @@
+CLINICAL_CASE:
+"Un bebé de 6 meses fue evaluado por retraso en el desarrollo neurológico.
+
+Durante el embarazo:
+
+A las 12 semanas, el ultrasonido prenatal mostraba desarrollo normal de la cabeza.
+
+Al inicio del segundo trimestre, la madre presentó exantema durante una epidemia viral en Brasil y las pruebas confirmaron infección por ese virus.
+
+En un ultrasonido a las 29 semanas se observaron:
+
+Microcefalia
+
+Calcificaciones en el cerebro
+
+Al nacer:
+
+El bebé tenía microcefalia
+
+La prueba IgM en sangre fue positiva para el virus
+
+Durante los primeros meses de vida desarrolló:
+
+Retraso severo del desarrollo
+
+Epilepsia
+
+La tomografía cerebral al mes de vida mostró:
+
+Lisencefalia (superficie cerebral lisa)
+
+Múltiples calcificaciones intracraneales, especialmente en:
+
+región subcortical
+
+ganglios basales
+
+En la evaluación actual se observaron:
+
+Ausencia de control cefálico
+
+Falta de contacto visual
+
+Ausencia de vocalización
+
+Hipertonía difusa
+
+Hiperreflexia
+
+Se descartaron otras infecciones congénitas que también pueden afectar el sistema nervioso. Se recomendó terapia física, ocupacional y del lenguaje."
+
+GROUND_TRUTH:
+P35.4

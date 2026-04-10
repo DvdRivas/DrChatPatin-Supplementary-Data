@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso neurológico.
+
+Se trata de una mujer de 19 años previamente sana que presentó inicio agudo de síntomas neurológicos y conductuales. Diez días antes del ingreso comenzó con lentitud en el habla, entumecimiento y temblores en el brazo derecho. Posteriormente sufrió un colapso en un andén del metro con temblores generalizados, confusión posterior, babeo y mordedura de lengua, compatible con una convulsión generalizada.
+
+Durante los días siguientes presentó episodios recurrentes de miedo intenso seguidos de temblores corporales, mutismo intermitente, espasmos en el brazo y la pierna derechos y alteraciones del lenguaje. En varias ocasiones parecía incapaz de hablar, aunque podía comunicarse escribiendo en su teléfono. Los electroencefalogramas realizados no mostraron actividad epileptiforme y las neuroimágenes fueron normales.
+
+En la evaluación hospitalaria posterior aparecieron cambios conductuales más marcados, con desorganización del pensamiento, episodios de agitación, paranoia y miedo a que el personal intentara hacerle daño. También presentó movimientos anormales intermitentes y signos sugestivos de catatonia. Los estudios de laboratorio fueron en general normales, salvo elevaciones transitorias de lactato y creatina quinasa.
+
+Con este cuadro de inicio subagudo caracterizado por convulsiones, síntomas psiquiátricos prominentes, mutismo intermitente, movimientos anormales y signos compatibles con catatonia en una mujer joven con estudios de neuroimagen y EEG normales, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+G04.8, C80.9, C79.4

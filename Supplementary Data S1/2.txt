@@ -1,0 +1,5 @@
+CLINICAL_CASE:
+Mujer de 48 años,con antecedentes de salud anterior.Acude a consulta por presentar fatiga,así como encías blanquecinas,inflamadas y dolorosas,cuadro que había comenzado una semana antes.Llamaba la atención en los exámenes de laboratorio,recuento de glóbulos blancos en 225.000/ mm³.
+
+GROUND_TRUTH:
+C92.0

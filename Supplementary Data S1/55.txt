@@ -1,0 +1,7 @@
+CLINICAL_CASE:
+"Un niño de 8 años previamente sano acudió a consulta por una erupción cutánea pruriginosa de 7 días de evolución. No presentaba fiebre, rinorrea ni malestar general. En la exploración física se observó una erupción en ambas mejillas que respetaba la región perioral, junto con una erupción reticular en forma de encaje en el tórax y los brazos. El hemograma completo fue normal. 
+
+Con base en las características clínicas del exantema, se realizó el diagnóstico de eritema infeccioso, una enfermedad exantemática causada por Parvovirus B19. Esta infección suele presentar primero un eritema facial con aspecto de “mejillas abofeteadas”, seguido de una erupción reticular en el tronco y las extremidades. El diagnóstico suele ser clínico, aunque en algunos casos pueden utilizarse pruebas serológicas. Se explicó a la familia que se trata de una enfermedad benigna y autolimitada, por lo que se indicó tratamiento sintomático y observación. En la consulta de seguimiento una semana después, la erupción había desaparecido."
+
+GROUND_TRUTH:
+B08.3

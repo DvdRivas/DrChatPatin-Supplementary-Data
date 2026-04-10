@@ -1,0 +1,41 @@
+CLINICAL_CASE:
+"Un niño de 5 años fue hospitalizado por fiebre y erupción cutánea.
+
+Inicio de los síntomas:
+
+3 días antes: fiebre de 39.2 °C y disminución del apetito.
+
+2 días antes: apareció una erupción pruriginosa en la parte dorsal de los pies que se extendió hacia las piernas.
+
+Inicialmente se pensó que la erupción era por contacto con hiedra venenosa, pero el rash continuó progresando.
+
+Evolución del cuadro:
+
+Las lesiones cutáneas cambiaron de máculas y pápulas eritematosas a pápulas rojo-púrpura no blanqueables (púrpura).
+
+La erupción se extendió a: piernas, glúteos, espalda baja, brazos, orejas
+
+Otros hallazgos clínicos:
+
+Conjuntivas inyectadas
+
+Linfadenopatía cervical
+
+Edema de manos y pies
+
+Lesiones eritematosas en mucosa oral
+
+Marcadores inflamatorios elevados
+
+El niño también se negaba a caminar, lo que sugería dolor articular.
+
+Dado que la erupción purpúrica predominaba en extremidades inferiores y el recuento de plaquetas era normal, se sospechó un proceso inflamatorio de vasos pequeños.
+
+Para confirmar el diagnóstico se realizó biopsia de piel, que mostró:
+
+vasculitis leucocitoclástica
+
+depósitos de IgA y C3 en vasos sanguíneos pequeños"
+
+GROUND_TRUTH:
+D69.0

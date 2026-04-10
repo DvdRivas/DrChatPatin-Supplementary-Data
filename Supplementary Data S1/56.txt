@@ -1,0 +1,9 @@
+CLINICAL_CASE:
+"Un niño de 3 años previamente sano acudió a urgencias con lesiones cutáneas indoloras de 6 semanas de evolución en la pierna izquierda. Inicialmente presentó picaduras de insecto pruriginosas en el pie, tras lo cual aparecieron bultos y úlceras que progresaron lentamente por la pierna. El paciente había inmigrado recientemente desde Venezuela después de un largo viaje por tierra con su familia.
+
+En la exploración física se observaron placas ulceradas con bordes elevados y pápulas satélite en la pierna izquierda, glúteos y espalda. Se realizaron biopsias de una de las lesiones, cuyo análisis mostró infiltración linfocítica e histiocítica intensa, sin microorganismos visibles en tinciones habituales. Sin embargo, una prueba de PCR del tejido identificó el parásito Leishmania guyanensis.
+
+Tras recibir tratamiento con el medicamento miltefosina durante 28 días, las lesiones cutáneas desaparecieron."
+
+GROUND_TRUTH:
+B55.1

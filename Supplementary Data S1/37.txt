@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Quisiera tu opinión diagnóstica sobre un caso de hemorragia digestiva recurrente.
+
+Se trata de una mujer de 55 años que en los últimos 6 meses ha presentado múltiples episodios de hematoquecia y posteriormente melena, asociados a anemia ferropénica severa (hemoglobina entre 6 y 8 g/dl), que ha requerido varias transfusiones y administración de hierro intravenoso.
+
+En la evaluación inicial se realizaron colonoscopia, esofagogastroduodenoscopia con enteroscopia y cápsula endoscópica, sin identificarse una fuente clara de sangrado. Las exploraciones del intestino delgado proximal y del colon fueron normales, excepto por hemorroides internas y diverticulosis.
+
+La paciente tiene antecedente quirúrgico relevante de colecistectomía complicada hace 20 años con lesión del conducto biliar, que requirió reparación abierta y hepático-yeyunostomía en Y de Roux.
+
+En el episodio actual, además de melena persistente, presenta fatiga y disnea leve de esfuerzo. En la exploración física destaca palidez, sin estigmas de hepatopatía crónica. Las pruebas de función hepática son normales.
+
+La tomografía computarizada con angiografía no mostró sangrado activo, pero reveló oclusión de la vena porta izquierda, estenosis en la unión de la vena porta derecha con la vena porta principal, esplenomegalia y múltiples colaterales portosistémicas cerca del hilio hepático y del sitio de la hepático-yeyunostomía.
+
+La colangiopancreatografía por resonancia magnética mostró atrofia del lóbulo caudado con cambios perihiliares y alteraciones vasculares portales, sin evidencia clara de masa.
+
+La EGD y la colonoscopia repetidas mostraron solo gastropatía erosiva leve y diverticulosis, sin sangrado activo ni lesiones vasculares evidentes.
+
+Con este cuadro de hemorragia digestiva recurrente de origen oscuro, anemia ferropénica, antecedentes de hepático-yeyunostomía y hallazgos de hipertensión portal con alteraciones de la vena porta en las imágenes, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+K55.8, I86.8

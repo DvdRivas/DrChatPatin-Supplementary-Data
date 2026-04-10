@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Quisiera comentarte un caso neonatal interesante para conocer tu opinión diagnóstica.
+
+Se trata de una recién nacida a término (37+6 semanas) que fue trasladada a la UCIN por hipoglucemia neonatal persistente. Durante el embarazo, a las 34 semanas, una ecografía fetal había mostrado una masa quística intraabdominal avascular cercana a la vejiga de aproximadamente 3–4 cm, además de un hoyuelo sacro. No se realizaron estudios adicionales prenatales.
+
+El parto se realizó por cesárea urgente debido a trazado fetal no reactivo. Al nacimiento presentó hipotonía leve y dificultad respiratoria transitoria. En la sala neonatal se detectó hipoglucemia severa (<10 mg/dL), que persistió a pesar de alimentación y bolos de dextrosa, requiriendo infusión continua con altas tasas de glucosa para mantener niveles aceptables.
+
+Al ingreso a nuestra UCIN, la exploración física mostraba una recién nacida estable, con dos hoyuelos sacros y ano anteriorizado. No había masas abdominales palpables. La ecografía abdominal y pélvica mostró una masa sólido-quística presacra de aproximadamente 5–6 cm, y la resonancia magnética confirmó una lesión presacra compatible con un tumor sacrococcígeo.
+
+A pesar del soporte con dextrosa a altas tasas de infusión, la paciente continuó con episodios de hipoglucemia. Los estudios metabólicos mostraron β-hidroxibutirato bajo y niveles detectables de insulina durante la hipoglucemia, hallazgos compatibles con hiperinsulinismo.
+
+Con este contexto de hipoglucemia neonatal persistente por hiperinsulinismo y una masa presacra compatible con teratoma sacrococcígeo, me gustaría saber qué etiologías considerarías prioritarias y si pensarías en alguna asociación sindrómica subyacente.
+
+¿Qué diagnóstico te parecería más probable?"
+
+GROUND_TRUTH:
+P70.4, D48.9, Q87.3

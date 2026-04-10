@@ -1,0 +1,69 @@
+CLINICAL_CASE:
+"Una mujer de 19 años previamente sana fue hospitalizada por episodios de sacudidas en el brazo y la pierna derechos y cambios extraños en el comportamiento.
+
+Inicio de los síntomas (10 días antes):
+
+Habla lenta
+
+Sacudidas y entumecimiento del brazo derecho
+
+Primer evento importante:
+
+Colapsó en una estación de metro con sacudidas generalizadas del cuerpo
+
+Posteriormente presentó confusión, babeo y mordedura de lengua, compatible con una convulsión.
+
+En el hospital inicial:
+
+Tomografía y resonancia cerebral normales
+
+Lactato elevado después del episodio
+
+Presentó episodios de miedo intenso seguidos de convulsiones
+
+Fue tratada con medicamentos antiepilépticos, pero los EEG repetidos fueron normales.
+
+Con el paso de los días aparecieron síntomas neurológicos y psiquiátricos progresivos, incluyendo:
+
+Neurológicos
+
+Sacudidas intermitentes del lado derecho
+
+Episodios de mutismo
+
+Dificultad para caminar
+
+Movimientos involuntarios
+
+Psiquiátricos
+
+Pensamiento desorganizado
+
+Paranoia
+
+Creencia de que el personal quería matarla
+
+Agitación intensa
+
+Conducta desorganizada
+
+Durante la hospitalización se realizó punción lumbar, que mostró:
+
+Leucocitos elevados con predominio linfocitario en el LCR
+
+Los médicos sospecharon un proceso autoinmune del sistema nervioso y comenzaron tratamiento inmunosupresor con esteroides e inmunoglobulina intravenosa.
+
+Posteriormente, estudios de imagen abdominal detectaron una gran masa en el ovario. La cirugía confirmó un tumor de células germinales (teratoma).
+
+Las pruebas inmunológicas finalmente detectaron anticuerpos dirigidos contra receptores neuronales específicos, confirmando el diagnóstico.
+
+El tratamiento incluyó:
+
+Cirugía para retirar el tumor
+
+Inmunoterapia (esteroides, inmunoglobulina, plasmaféresis y rituximab)
+
+Tras el tratamiento, la paciente mejoró notablemente y fue trasladada a rehabilitación."
+
+GROUND_TRUTH:
+C80.9, G04.8

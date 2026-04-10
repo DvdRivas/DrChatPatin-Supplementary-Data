@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Hola,
+
+Quisiera pedirte una segunda opinión sobre un caso clínico que estamos evaluando. Se trata de una mujer de 82 años que acudió al servicio de urgencias por distensión abdominal progresiva y edema marcado en extremidades inferiores. Tres semanas antes había viajado a Sudamérica y durante su estancia comenzó a notar pesadez en las piernas y aumento del volumen abdominal. Al regresar, el edema empeoró hasta limitar sus actividades cotidianas.
+
+En la exploración física encontramos edema con fóvea que se extendía hasta los muslos y pared abdominal, distensión abdominal con ascitis y disminución de los ruidos respiratorios en las bases pulmonares. Los estudios de imagen mostraron signos compatibles con edema pulmonar leve y pequeños derrames pleurales. En la tomografía abdominal se observó ascitis y un contorno hepático nodular, además de anasarca difusa.
+
+Entre sus antecedentes destacan fibrilación auricular con antecedente de evento cerebrovascular cardioembólico y diagnóstico previo de insuficiencia cardíaca con fracción de eyección preservada. En el examen también se observó presión venosa yugular elevada y un soplo holosistólico en el borde esternal inferior izquierdo.
+
+En el laboratorio llama la atención hipoalbuminemia significativa y proteinuria. La paciente además refiere orina espumosa y presenta edema periorbitario. Los estudios inmunológicos muestran elevación de cadenas ligeras libres en suero y presencia de componentes monoclonales de IgA.
+
+Con base en estos hallazgos clínicos, de laboratorio y de imagen, me gustaría saber tu opinión sobre cuál consideras que podría ser el diagnóstico más probable "
+
+GROUND_TRUTH:
+E85.8

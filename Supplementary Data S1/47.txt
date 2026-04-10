@@ -1,0 +1,21 @@
+CLINICAL_CASE:
+"Hola colega,
+
+Quisiera pedirte tu opinión diagnóstica sobre un caso interesante.
+
+Se trata de un hombre de 32 años previamente sano que acudió al servicio de urgencias por dolor torácico de inicio súbito. Varias horas antes había comido pizza y, menos de una hora después, mientras descansaba, comenzó con dolor opresivo intenso en la región subxifoidea (7/10), acompañado de diaforesis, disnea y náuseas. El dolor era constante, no se irradiaba y no empeoraba con la respiración. Intentó inducir el vómito y tomó carbonato de calcio sin mejoría.
+
+Entre sus antecedentes destaca consumo habitual de alcohol (aproximadamente seis cervezas al día) y consumo previo de cocaína (último uso tres meses antes). Su padre tuvo un infarto de miocardio a los 51 años.
+
+En urgencias se encontraba ansioso y diaforético. La temperatura era de 36.3 °C, la frecuencia cardíaca de 83 lpm, la presión arterial de 158/81 mm Hg, la frecuencia respiratoria de 28 rpm y la saturación de oxígeno del 100% en aire ambiente. El índice de masa corporal era de 26.9. Señalaba dolor en la región subxifoidea con ligera sensibilidad a la palpación. El resto del examen físico era normal.
+
+El electrocardiograma mostró elevación cóncava del segmento ST de 1–2 mm en derivaciones inferiores y en V3–V6, con elevación del segmento PR en aVR y posibles depresiones del segmento PR en otras derivaciones. La radiografía de tórax fue normal. Los niveles iniciales de troponina fueron negativos.
+
+Durante la evolución hospitalaria se observaron elevaciones progresivas de las aminotransferasas y de la bilirrubina sérica. Posteriormente el dolor se localizó más claramente en el cuadrante superior derecho y apareció ictericia escleral, además de orina oscura con aumento de urobilinógeno.
+
+Una ecografía abdominal mostró colelitiasis con distensión leve de la vesícula biliar, sin dilatación de la vía biliar. En una colangiopancreatografía retrógrada endoscópica no se observaron defectos de llenado en el conducto biliar común, aunque sí cálculos en la vesícula.
+
+Con este cuadro de dolor inicialmente subxifoideo posprandial que simuló un síndrome coronario agudo, alteraciones progresivas en las pruebas de función hepática e imagen que muestra colelitiasis, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+K81.1, K80.2

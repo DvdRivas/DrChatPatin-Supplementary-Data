@@ -1,0 +1,19 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso respiratorio agudo.
+
+Se trata de un hombre de 24 años que consultó por un cuadro de 3 días de evolución caracterizado inicialmente por malestar general, debilidad, cefalea y dolor lumbar. Posteriormente desarrolló fiebre alta, tos seca intensa, escalofríos y dificultad progresiva para respirar. El día del ingreso presentó disnea marcada y dolor torácico localizado en la región subxifoidea que aumentaba con la respiración profunda y la tos.
+
+A su llegada, la temperatura oscilaba entre 39.5 y 40.8 °C, la frecuencia cardíaca entre 92 y 145 lpm y la frecuencia respiratoria entre 28 y 58 rpm. El paciente se veía gravemente enfermo, con respiración rápida y superficial, y episodios de tos paroxística que producían esputo rosado, espeso y ligeramente purulento.
+
+En la exploración pulmonar inicial los ruidos respiratorios estaban disminuidos en la base del pulmón derecho. En los días siguientes, la tos se volvió más productiva con esputo purulento y hemoptoico. La percusión mostró progresivamente matidez en la base pulmonar izquierda y derecha, con aumento del frémito táctil y aparición de ruidos respiratorios bronquiales en la región posterior inferior izquierda.
+
+Los laboratorios mostraron leucocitos entre 3700 y 14 500/µL con predominio de neutrófilos, y los hemocultivos fueron negativos.
+
+La radiografía de tórax mostró consolidaciones irregulares bilaterales con aspecto moteado que confluían principalmente en el lóbulo superior derecho y el lóbulo inferior izquierdo, compatibles con neumonía. También se observó plenitud hiliar izquierda sugestiva de adenopatía y posible derrame pleural.
+
+A pesar del manejo hospitalario, el paciente evolucionó rápidamente con deterioro progresivo y falleció al cuarto día de hospitalización.
+
+Con este cuadro de inicio agudo febril, compromiso respiratorio severo, consolidaciones pulmonares bilaterales y evolución rápidamente fatal en un adulto joven, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+J18.0, J11.0

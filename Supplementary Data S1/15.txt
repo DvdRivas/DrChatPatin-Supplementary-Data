@@ -1,0 +1,54 @@
+CLINICAL_CASE:
+"te consulto por un caso clínico desafiante que acabamos de recibir trasladado de otro centro. Se trata de una femenina de 80 años con pancitopenia y hallazgo de esquistocitos, manejada inicialmente como una Púrpura Trombocitopénica Trombótica (PTT), pero la historia es más compleja.
+
+Te resumo la cronología:
+
+Enfermedad Actual
+Inicio (hace 6 semanas): Cuadro de náuseas, vómitos, diarrea y fiebre subjetiva que resolvió en 4 días. Posteriormente desarrolló disfagia a sólidos y saciedad temprana.
+
+Evolución (hace 4 semanas): Fatiga progresiva, mareos y pérdida de peso de 6 kg.
+
+Manejo en Hospital Externo (previo al traslado):
+
+Ingresó con fiebre (38.9°C) y pancitopenia.
+
+Frotis: Presencia de esquistocitos.
+
+TC Abdomen/Pelvis: Hernia hiatal, quistes renales y masas pélvicas bilaterales indeterminadas (4.8 cm derecha y 6.3 cm izquierda).
+
+Endoscopia: Inflamación esofágica difusa con exudados (cepillado positivo para Candida, se inició fluconazol).
+
+Curso Clínico: Requirió transfusión de glóbulos rojos. Desarrolló edema pulmonar agudo (posible sobrecarga) que resolvió con diuréticos. Aunque la fiebre cedió, la pancitopenia persistió.
+
+Descarte de hemólisis/infecciosa: Coombs directo/indirecto negativos. PCR para Babesia y Anaplasma negativos. B12, folato y homocitseína normales. Anticuerpos antifosfolípidos negativos.
+
+Citometría de flujo: Células mieloides fenotípicamente normales, <1% de mieloblastos CD34+ atípicos.
+
+Ante la sospecha de PTT, le colocaron un catéter tunelizado e iniciaron recambio plasmático (plasmaféresis) y nutrición parenteral por la odinofagia severa.
+
+Antecedentes de Importancia (El dato pivote)
+Al revisar su historial, encontramos un dato clave de hace 1 año:
+
+Se detectó trombocitopenia y anemia leves.
+
+Biopsia de Médula Ósea (hace 1 año): Hipercelularidad leve, hematopoyesis trilineal con anomalías eritroides y megacariocitos hipercromáticos ocasionales.
+
+Citogenética previa: Pérdida de cromosomas 3 y 5, y ganancia del cromosoma 8 en el 65% de las células.
+
+Sus conteos se habían mantenido estables hasta hace 4 meses.
+
+Estado Actual (En nuestro hospital)
+La paciente se siente con más energía tras la plasmaféresis y la confusión leve que tuvo ha resuelto.
+
+Exploración: Afebril, estable. Soplo sistólico 2/6. Sin petequias ni sangrados activos.
+
+Frotis actual: Persisten los esquistocitos, anisocitosis severa, plaquetas grandes y bandas aumentadas (sin blastos).
+
+Laboratorio: Electroforesis de proteínas normal. Cadenas ligeras libres elevadas pero con ratio normal.
+
+Marcadores tumorales: CA 125, CA 19-9 y antígeno carcinoembrionario normales (a pesar de las masas pélvicas descritas).
+
+Ginecología recomienda seguimiento ambulatorio de las masas pélvicas. Me pregunto si estamos ante una microangiopatía trombótica clásica o si la citogenética previa sugiere una evolución clonal que esté impulsando este cuadro, posiblemente exacerbada por el proceso infeccioso/inflamatorio reciente."
+
+CLINICAL_CASE:
+D46.9

@@ -1,0 +1,17 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso otorrinolaringológico pediátrico.
+
+Se trata de un niño de 11 años con historia de aproximadamente 5 años de cefaleas bifrontales, que en los últimos meses se han localizado predominantemente en la región supraorbitaria derecha. Además presenta congestión nasal crónica con rinorrea ocasional. Dos años antes había sido evaluado por neurología y se le diagnosticó migraña; una resonancia magnética realizada en ese momento no mostró anomalías intracraneales, aunque se interpretaron hallazgos compatibles con sinusitis.
+
+Dos meses antes de la evaluación actual, las cefaleas se volvieron más frecuentes e intensas. Radiografías de senos paranasales mostraron una lesión con densidad ósea en la región etmoidal derecha. En la evaluación por otorrinolaringología se observó una masa rojiza de tejido blando dentro de la cavidad nasal derecha; en la endoscopia nasal se confirmó que la masa se originaba lateralmente al cornete medio derecho. La cavidad nasal izquierda era normal y no había linfadenopatías cervicales ni alteraciones en la función de los pares craneales.
+
+La tomografía computarizada de los senos paranasales reveló una masa altamente calcificada centrada en el seno etmoidal derecho que producía expansión ósea y remodelación de la pared orbitaria medial. La lesión medía aproximadamente 2.2 × 1.4 × 2.9 cm y estaba asociada a opacificación completa del seno maxilar, etmoides anterior y seno frontal ipsilaterales, probablemente por obstrucción. La lámina papirácea estaba remodelada pero sin destrucción franca, y el techo etmoidal limitaba la lesión sin evidencia de extensión intracraneal ni compromiso de la lámina cribiforme.
+
+En la exploración oftalmológica presentaba leve proptosis derecha e hipertelorismo leve, pero con agudeza visual normal, motilidad extraocular completa y fondo de ojo sin alteraciones.
+
+El paciente no presentaba pérdida de peso, fiebre, epistaxis, anosmia ni síntomas visuales. Entre sus antecedentes destacan una fractura orbitaria traumática previa, una fractura femoral tratada quirúrgicamente y adenoamigdalectomía por obstrucción. No toma medicamentos de forma regular salvo ibuprofeno para las cefaleas.
+
+Con este cuadro de masa nasosinusal unilateral calcificada en el seno etmoidal en un niño, asociada a cefalea crónica y leve proptosis, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+C30.0

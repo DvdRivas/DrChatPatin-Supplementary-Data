@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Quisiera pedirte tu opinión diagnóstica sobre un caso posparto bastante complejo.
+
+Se trata de una mujer de 30 años que fue ingresada 6 días después de un parto vaginal a las 35+3 semanas por fiebre (38.7 °C) y dolor abdominal. Inicialmente se sospechó endometritis posparto y se inició tratamiento antibiótico de amplio espectro, pero la paciente no presentó mejoría clínica.
+
+Durante la hospitalización persistieron la fiebre, la leucocitosis marcada y el dolor abdominal. Los cultivos de sangre, endometrio y líquido intraabdominal fueron negativos. En estudios de imagen se documentaron ascitis progresiva, anasarca, hepatomegalia, esplenomegalia y colecciones pélvicas que fueron drenadas, con líquido purulento estéril.
+
+Posteriormente la paciente desarrolló lesiones cutáneas dolorosas que comenzaron como placas eritematosas y ampollas violáceas, que evolucionaron a úlceras necróticas. Llamativamente, varias de estas lesiones aparecieron en sitios de trauma menor, como donde se habían colocado catéteres intravenosos o drenajes percutáneos.
+
+La biopsia cutánea mostró un infiltrado dérmico denso compuesto predominantemente por neutrófilos, sin evidencia de microorganismos ni vasculitis.
+
+Considerando este cuadro de fiebre persistente, leucocitosis marcada, lesiones cutáneas ulcerativas con fenómeno de patergia y un infiltrado neutrofílico dérmico estéril en la biopsia, ¿cuál considerarías que es el diagnóstico más probable?"
+
+GROUND_TRUTH:
+L98.2

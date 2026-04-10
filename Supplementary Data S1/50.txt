@@ -1,0 +1,15 @@
+CLINICAL_CASE:
+"Es una mujer de 18 años con antecedente de cefaleas desde hace varios años, que con el tiempo se volvieron más frecuentes, intensas y acompañadas de náuseas y fotofobia. Inicialmente se trataron como migraña o cefalea tensional.
+
+Con el paso del tiempo aparecieron datos de presión intracraneal elevada, como papiledema y aumento de la presión del líquido cefalorraquídeo en la punción lumbar. También se detectó hipertensión arterial severa que llegó a ser una crisis hipertensiva, junto con hipopotasemia persistente.
+
+Los estudios descartaron varias causas comunes de hipertensión secundaria en jóvenes (enfermedad renal, feocromocitoma, síndrome de Cushing, consumo de sustancias o anomalías vasculares). Sin embargo, los análisis mostraron niveles extremadamente elevados de renina en sangre.
+
+En estudios de imagen abdominal se identificó una pequeña masa en el riñón izquierdo. Debido a la sospecha de que esta lesión estaba produciendo la sustancia responsable de la hipertensión, se decidió extirparla mediante una nefrectomía parcial laparoscópica.
+
+Tras la cirugía, la presión arterial se normalizó sin necesidad de medicamentos, lo que confirmó que la lesión renal era la causa del problema. El análisis histopatológico del tumor mostró una proliferación celular benigna productora de renina.
+
+Con el tiempo, la paciente mejoró de la hipertensión y de los síntomas neurológicos, y pudo regresar a sus actividades normales."
+
+GROUND_TRUTH:
+C64.9
